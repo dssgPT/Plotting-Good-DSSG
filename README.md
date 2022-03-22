@@ -23,7 +23,7 @@ Recomendamos ainda, associado às publicações:
 
 - Foquem em formas alternativas de contar uma história e não em criticar o artigo/gráfico original apresentado.
 - Apoiem, através de críticas construtivas, os restantes participantes.
-- O uso de texto alternativo de forma a garantir que os gráficos partilhados são também acessíveis a utilizadores de tecnologias como screen readers. Aqui estão algumas dicas sobre como fazê-lo.
+- O uso de texto alternativo de forma a garantir que os gráficos partilhados são também acessíveis a utilizadores de tecnologias como screen readers. [Aqui estão](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) algumas dicas sobre como fazê-lo.
 
 # 🔨 Ferramentas aceites
 
