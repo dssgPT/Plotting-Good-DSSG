@@ -1,3 +1,4 @@
+# 📔 Dicionário dos dados
 
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
