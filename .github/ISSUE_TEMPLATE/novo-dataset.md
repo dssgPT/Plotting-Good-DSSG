@@ -1,6 +1,6 @@
 ---
 name: Novo dataset
-about: Sugere um novo dataset para o Plot Good
+about: Sugere um novo dataset para o Plotting Good
 title: ''
 labels: ''
 assignees: ''
