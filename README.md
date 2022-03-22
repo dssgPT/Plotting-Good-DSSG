@@ -21,7 +21,7 @@ Todos e todas as entusiastas de dados são convidados a participar, tendo em con
 
 Recomendamos ainda, associado às publicações:
 
-- Foquem não em criticar o artigo/gráfico original apresentado, mas em formas alternativas de contar uma história.
+- Foquem em formas alternativas de contar uma história e não em criticar o artigo/gráfico original apresentado.
 - Apoiem, através de críticas construtivas, os restantes participantes.
 - O uso de texto alternativo de forma a garantir que os gráficos partilhados são também acessíveis a utilizadores de tecnologias como screen readers. Aqui estão algumas dicas sobre como fazê-lo.
 
