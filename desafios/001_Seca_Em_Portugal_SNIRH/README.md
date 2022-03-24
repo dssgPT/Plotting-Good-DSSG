@@ -1,3 +1,6 @@
+Os dados disponibilizados no ficheiro `snirh_clean.csv` foram obtidos através do [SNIRH](https://snirh.apambiente.pt/). Os detalhes sobre o processamento dos dados estão no ficheiro `/processamento/datawrangling.ipynb`
+
+
 # 📔 Dicionário dos dados
 
 | Nome da coluna        | Significado           | Possíveis valores  |
