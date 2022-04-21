@@ -1,0 +1,1 @@
+Os dados disponibilizados no ficheiro `ruas_abril.geojson` são do Open Street Map (OSM) e foram obtidos através do [Geofabrik](https://download.geofabrik.de/europe/portugal.html). Os detalhes sobre o processamento dos dados estão no ficheiro `/processamento/processamento_ruas_abril.ipynb`
