@@ -1,7 +1,7 @@
 Os dados disponibilizados no ficheiro `ruas_abril.geojson` são do Open Street Map (OSM) e foram obtidos através do [Geofabrik](https://download.geofabrik.de/europe/portugal.html). Os detalhes sobre o processamento dos dados estão no ficheiro `/processamento/processamento_ruas_abril.ipynb`
 
-| Nome da coluna         | Significado                                                                    | Possíveis valores                                                    |     |     |
-| ---------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | --- | --- |
+| Nome da coluna         | Significado                                                                    | Possíveis valores                                                    |     
+| ---------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | 
 | osm_id                 | ID do segmento da rua extraído do OpenStreetMaps.                              | Inteiro >=0                                                          |     |     |
 | rua                    | Nome da rua, de acordo com o OpenStreetMaps                                    | Texto (Exemplo: Avenida da Liberdade)                                |     |     |
 | geometry               | Polígono das coordenadas da rua, do tipo LINESTRING (Shapefile)                | LINESTRING                                                           |     |     |
