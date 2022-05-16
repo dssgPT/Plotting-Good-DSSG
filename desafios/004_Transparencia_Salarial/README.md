@@ -1,8 +1,7 @@
 Os dados disponibilizados no ficheiro `pwit_transparencia_salarial.csv` são do projeto de [Transparência Salarial da Portuguese Women in Tech](https://docs.google.com/spreadsheets/d/10JCXthEjLKCnudhFo3RfsWCx2iHcPgkuqvs-Yw7zfq4/edit#gid=675151327) e foram processados pela DSSG PT.
 
-| Nome da coluna         | Significado                                                                    | Possíveis valores                                                    |     
-| ---------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-
+| Nome da coluna        | Significado           | Possíveis valores  |
+| ------------- |:-------------:| -----:|
 | idade | Faixa etária | Categórico (exemplo: 18-24, 25-34) |
 | genero | Género | Categórico (exemplo: homem, mulher, outro) |
 | local | Localização do escritório | Texto (exemplo: Lisboa) |
