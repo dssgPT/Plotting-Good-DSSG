@@ -1,449 +1,449 @@
-,Age,Gender,Location,Job Tittle,Years of post-college professional work experience,Size of Company,Monthly Gross Salary,Other perks,salario_processado
-0,18-24,Female,Porto,Accounting Assistant,< 2 years of experience,+ 1000 people,860€,"Health insurance, Parental Bonus, First 3 days of sick leave paid",860.0
-1,35-44,Female,Lisboa,Analytics Team Coordinator ,> 16 years of experience,+ 200 people,"1,800€","Health Insurance, Employee Discounts",1800.0
-2,35-44,Female,Lisboa,Analytics Team Leader,<15 years of experience,+ 200 people,"3,000€","Health Insurance, Gym membership",3000.0
-3,25-34,Male,Vienna,Android Developer,<15 years of experience,100 - 200 people,"4,500€",No,4500.0
-4,18-24,Female,Lisboa,Animator,No experience,11 - 25 people,750€,,750.0
-5,25-34,Female,Lisboa,Assistance consulting ,< 2 years of experience,+ 1000 people,"1,128€",,1128.0
-6,45-54,Male,Porto,BI developer ,> 16 years of experience,+ 1000 people,"2,900€",Health insurance,2900.0
-7,35-44,Female,Lisboa,Brand and communication management ,<15 years of experience,+ 1000 people,"1,300€",,1300.0
-8,25-34,Female,Lisboa,Brand Design Manager,<15 years of experience,+ 500 people,"2,445€","Health Insurance extended to family; Life Insurance, Meal Card, Stock Options, Flex expenses (anual value where you can use in daycare, amazon, apple,etc)  ",2445.0
-9,45-54,Female,Lisboa,Business Analysis,> 16 years of experience,+ 1000 people,"3,980€","health insurance, Employee Discounts",3980.0
-10,25-34,Male,Lisboa,Business Analyst,< 5 years of experience,+ 1000 people,"1,500€",Health Insurance,1500.0
-11,25-34,Female,Porto,Business Analyst,< 5 years of experience,+ 1000 people,"1,600€","Health Insurance, Employee Discounts, Stock Options, Expenses Reimbursement (gym, health, tuition, day care)",1600.0
-12,35-44,Female,Porto,Business Analyst,<15 years of experience,+ 200 people,"3,200€",health insurance,3200.0
-13,25-34,Female,Lisboa,Business Analyst,< 5 years of experience,+ 1000 people,"1,850€",Health insurance,1850.0
-14,25-34,Female,Lisboa,Business Analyst,< 5 years of experience,+ 1000 people,"1,850€","Health Insurance, Meal Card, Flex expenses (anual value you can use in gym, pharmacy, school, fnac/staples, etc), 4h/week for volunteering",1850.0
-15,25-34,Female,Lisboa,Business Developement Manager,< 10 years of experience,11 - 25 people,"2,500€",Company car for personal use + Fuel Allowance 175€/month + 500€/Month Life Insurance + Meal Allowance 7.63€/day + Health Insurance + Birthday day off + Bonuses related with business development goals ,2500.0
-16,35-44,Female,Aveiro,Business Developer,< 5 years of experience,11 - 25 people,1€, Snacks&Coffee (office); Mobile Phone Plan; Laptop ,1.0
-17,25-34,Female,Braga,Business Developer,< 10 years of experience,1 - 10 people,"1,400€",Gym membership; mobile phone; 200€/yearly formation reimbursement,1400.0
-18,25-34,Female,Lisboa,Business Development,< 5 years of experience,25 - 50 people,"1,500€","Meal allowance, health insurance, learning budget, commissions, flexible schedule and remote work possible",1500.0
-19,25-34,Female,Lisboa,Business Development Representative,< 5 years of experience,25 - 50 people,880€,Meal allowance ,880.0
-20,25-34,Male,Porto,Business Intelligence Consultant,< 5 years of experience,+ 200 people,"2,270€","Health Insurance, Employee Discounts, Employee Development Programs",2270.0
-21,25-34,Female,Lisboa,Business Intelligence Developer,< 5 years of experience,+ 200 people,"2,200€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Meal Card (+160€), Mobile Phone, Free coffee and fruit, Payed certifications, Remote work",2200.0
-22,25-34,Female,Porto,Business Intelligence Developer,< 5 years of experience,+ 1000 people,"1,800€","Health Insurance, Employee Discounts, Meal Card (+/-140€), Mobile Phone, Remote work",1800.0
-23,25-34,Female,Lisboa,Business Intelligence Developer,< 5 years of experience,25 - 50 people,"1,600€",Health Insurance,1600.0
-24,25-34,Male,Lisboa,Business Lead,< 2 years of experience,25 - 50 people,"1,200€","Health Insurance, Variable Salary",1200.0
-25,35-44,Female,Lisboa,Business Unit Manager,> 16 years of experience,+ 1000 people,2800€ gross + 1000€ liquido despesas e viatura + 20000€ bruto variavel anual,"Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Stock acquisition program.",2800.0
-26,25-34,Female,Lisboa,Campus Lead,< 5 years of experience,100 - 200 people,"2,660€",Education Perk,2660.0
-27,35-44,Female,Lisboa,CEO,< 10 years of experience,1 - 10 people,"3,500€","None, we are a not for profit and we cannot afford that yet",3500.0
-28,35-44,Male,Porto,CEO,> 16 years of experience,1 - 10 people,"3,600€","3-4 extra holidays per year, 7h workday",3600.0
-29,35-44,Female,Lisboa,CEO,<15 years of experience,11 - 25 people,"2,828€","Health Insurance, Free Public Transport, Car, Phone ",2828.0
-30,35-44,Female,Lisboa,CFO,<15 years of experience,1 - 10 people,"5,800€","Health Insurance, Parental Leave",5800.0
-31,35-44,Female,Lisboa,Channels Sales Manager,<15 years of experience,+ 1000 people,"BRL 25000,00","Health Insurance, Parental Leave, Employee Development Programs,",4623.23
-32,25-34,Female,Porto,Communication Lead,<15 years of experience,+ 1000 people,"2,050€","Gym, Health Insurance, Parental Leave, Equity options, employee discounts, sabbatical leave, extra health voucher ",2050.0
-33,45-54,Female,Lisboa,Community Manager,> 16 years of experience,11 - 25 people,"1,400€","Believe you shall change the questionnaire, my case, I have more than 16 years of professional experience BUT not on current job. Up to 2014 my Monthly gross salary was much higher with extra benefits. Taking conclusion that a 50' yr old woman, with more than 16 yrs experience post college have 1400€ monthly gross salary is not accurate, there are other factors, change carrear, why, voluntary, compulsory...Thanks for the work any case, this subject is particularly dearest.",1400.0
-34,45-54,Female,Heidelberg,Computer Scientist,> 16 years of experience,+ 1000 people,"5,400€",,5400.0
-35,25-34,Male,Lisboa,Consultant,< 10 years of experience,51 - 100 people,"2,000€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership",2000.0
-36,18-24,Male,Lisboa,Consultant,< 5 years of experience,+ 1000 people,"1,800€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership
-",1800.0
-37,18-24,Male,Lisboa,Consultant,< 5 years of experience,+ 1000 people,"1,800€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership
-",1800.0
-38,25-34,Female,Lisboa,Consultant,< 5 years of experience,+ 1000 people,"1,920€",Health insurance,1920.0
-39,25-34,Female,Lisboa,Consultant,< 5 years of experience,25 - 50 people,"1,975€",Health Insurance,1975.0
-40,25-34,Female,Porto ,Consultant Power BI e PowerApps,< 2 years of experience,1 - 10 people,"1,000€",,1000.0
-41,25-34,Female,Lisboa,Content Manager,< 10 years of experience,11 - 25 people,"1,500€","Parental Leave, Employee Development Programs, Stock Options, Free Lunch plus Meal Card ",1500.0
-42,25-34,Female,Lisboa,Content Marketing Manager,< 5 years of experience,100 - 200 people,"2,800€","Health Insurance, Personal Development Budget, Discounts in stores and gyms, and compound stock options",2800.0
-43,25-34,Female,Lisboa,Content Specialist,< 5 years of experience,+ 200 people,"1,500€","health insurance, employee development, employee discounts  (salary includes meal allowance card)",1500.0
-44,35-44,Female,Lisboa,Content/Freelancer ,<15 years of experience,1 - 10 people,"2,200€",I'm a freelancer. ,2200.0
-45,45-54,Male,Braga,Continuous improvement projects manager,> 16 years of experience,+ 1000 people,"2,580€","Health insurance, mobile phone ",2580.0
-46,25-34,Female,Porto,COO,< 10 years of experience,1 - 10 people,"1,200€",,1200.0
-47,25-34,Female,Aveiro,COO ,< 5 years of experience,1 - 10 people,"1,000€",Equity,1000.0
-48,25-34,Female,Lisboa,CRM Assistant,< 2 years of experience,+ 1000 people,"1,800€","health insurance, gym membership",1800.0
-49,35-44,Female,Lisboa,Data Analyst,< 2 years of experience,100 - 200 people,"1,200€",health insurance,1200.0
-50,25-34,Female,Porto,Data Analyst,< 5 years of experience,+ 500 people,"1,550€","meal allowance, flex benefits 100€ per month, health insurance, employee discounts, stock options",1550.0
-51,18-24,Male,Porto,Data Analyst,No experience,25 - 50 people,"1,100€",,1100.0
-52,35-44,Female,Porto,Data Analyst,< 10 years of experience,+ 200 people,"1,950€",Health Insurance,1950.0
-53,25-34,Male,Porto,Data Analyst,No experience,100 - 200 people,"1,200€",Health Insurance,1200.0
-54,25-34,Male,Porto,Data Analyst,< 10 years of experience,+ 1000 people,"2,000€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Stock Options and/or Equity.",2000.0
-55,35-44,Female,Porto,Data Analyst,< 10 years of experience,+ 1000 people,"1,900€","Health Insurance, Employee Development Programs, Employee Discounts, Stock Options",1900.0
-56,25-34,Male,Porto,Data Analyst,< 5 years of experience,+ 1000 people,"1,300€",Health Insurance,1300.0
-57,25-34,Female,Lisboa,Data and Business Analyst,< 10 years of experience,+ 1000 people,"2,583€","Health Insurance, Parental Leave, Meal Tickets, academic education",2583.0
-58,25-34,Male,Lisboa,Data Engineer,< 5 years of experience,+ 1000 people,"2,900€","Health Insurance, Parental Leave, Gym Membership, Stock options, possibility to buy gadgets, bonus of 6000€, most of the time work from home, meal allowance (160€ month), training and paid certifications, work computer, mobile phone, paid conferences with trip, and cartão ensino",2900.0
-59,25-34,Female,Lisboa,Data Engineer,< 5 years of experience,+ 200 people,"3,500€","Health insurance, stock options, meal allowance, employee assistance program, gym membership, event tickets, work laptop",3500.0
-60,25-34,Female,Porto,Data Engineer,< 10 years of experience,51 - 100 people,"1,970€",Health insurance,1970.0
-61,25-34,Female,Lisboa,Data Science Consultant,< 2 years of experience,51 - 100 people,"1,130€","300 euro/monthly for expenses and premium, plus food allowance 140 euro/monthly. Health insurance, cellphone and sim.",1130.0
-62,25-34,Female,Porto,Data Science Lead,< 10 years of experience,+ 1000 people,"2,150€","Health Insurance, Parental Leave, Employee Discounts, Anual Bonus ~6000, Meal Allowance, Mobile Phone,  Flexible Remote Work Once a Week",2150.0
-63,35-44,Male,Aveiro,Data Scientist,<15 years of experience,+ 500 people,"4,000€",,4000.0
-64,18-24,Female,Lisboa,Data Scientist,< 2 years of experience,+ 1000 people,"1,650€","Health Insurance, Meal Card, Pension Fund",1650.0
-65,25-34,Male,Lisboa,Data Scientist,< 2 years of experience,1 - 10 people,"1,100€",,1100.0
-66,18-24,Female,Lisboa,Data Scientist,< 2 years of experience,11 - 25 people,"1,875€","Food allowance, employee development programs",1875.0
-67,25-34,Male,Lisboa,Data Scientist,< 5 years of experience,+ 1000 people,"2,650€",Health Insurance,2650.0
-68,25-34,Male,Maia,Data Scientist,< 5 years of experience,+ 1000 people,"2,100€","Health Insurance, Parental Leave, Phone, Employee Discounts, Annual bonus up to 4500€",2100.0
-69,25-34,Female,Porto,Data Scientist,< 5 years of experience,+ 200 people,"2,900€","Health Insurance, Parental Leave, Employee Development Program, Employee Discounts, Gym Membership",2900.0
-70,25-34,Female,Porto,Data Scientist,< 5 years of experience,100 - 200 people,"2,650€","Health Insurance, Parental Leave, Food and snacks",2650.0
-71,18-24,Female,Porto,Data Scientist,< 2 years of experience,+ 200 people,"2,225€","Health Insurance, Parental Leave, Employee Development Programs, Gym Membership, Stock Options, Snacks and Soup at the office, Remote work option",2225.0
-72,45-54,Female,porto,Data Scientist,<15 years of experience,100 - 200 people,"4,500€",,4500.0
-73,25-34,Female,Eindhoven ,Data specialist ,< 5 years of experience,+ 1000 people,"3,700€","13th month, profit sharing, holiday allowance",3700.0
-74,25-34,Female,Berlin,Design Lead,< 10 years of experience,25 - 50 people,"5,000€","Parental Leave (24 months for one parent, 28 months for the two), Public Transportation Card, some expenses for professional development, employee discounts in certain websites",5000.0
-75,25-34,Male,Lisboa,Designer,<15 years of experience,1 - 10 people,"10,000€",None,10000.0
-76,25-34,Male,Lisboa,Designer,<15 years of experience,1 - 10 people,"10,000€",None,10000.0
-77,35-44,Male,Lisboa,Designer,> 16 years of experience,+ 500 people,"2,500€",,2500.0
-78,25-34,Female,Lisboa,Designer,< 5 years of experience,+ 1000 people,"1,550€","Health Insurance, Gym Membership and Employee Discounts",1550.0
-79,25-34,Female,Lisboa,Designer,< 10 years of experience,25 - 50 people,900€,,900.0
-80,25-34,Female,Lisboa,Designer,< 5 years of experience,11 - 25 people,"1,200€",Like Health Insurance,1200.0
-81,25-34,Female,Lisboa,Developer,< 5 years of experience,+ 200 people,"1,500€","Health Insurance, Parental Leave, Employee Development Programs",1500.0
-82,25-34,Female,Lisboa,Developer,< 10 years of experience,11 - 25 people,"1,980€","Health Insurance, Flex benefits",1980.0
-83,25-34,Female,Lisboa,Developer,No experience,+ 1000 people,"1,500€","Health Insurance, Parental Leave, Mobile Phone Plan, Extra Vacation Days, Employee partnerships and discounts, Vacation allowance (Christmas and Summer), Food allowance, Fruit & coffee/tea ",1500.0
-84,25-34,Female,Porto,Developer,< 10 years of experience,1 - 10 people,900€,seguro de saúde,900.0
-85,25-34,Female,Braga,Developer,< 5 years of experience,25 - 50 people,"1,400€",Health insurance,1400.0
-86,25-34,Female,Cascais,Developer,< 5 years of experience,1 - 10 people,850€,No other bennefits,850.0
-87,25-34,Female,Fundão,Developer (Trainee),< 2 years of experience,+ 200 people,980€,Training,980.0
-88,25-34,Female,Braga,Developer and tester engineer,< 5 years of experience,+ 1000 people,"1,600€","Health Insurance, Parental Leave, Employee Development Programs",1600.0
-89,25-34,Female,London,Digital Account Manager,< 5 years of experience,100 - 200 people,"2,720€",,2720.0
-90,25-34,Female,Lisboa,Digital Artist,< 10 years of experience,11 - 25 people,"1,700€",Parental leave. Flexibily in working hours.,1700.0
-91,25-34,Female,Lisboa,Digital Data Analyst,< 5 years of experience,+ 200 people,"2,400€","Health Insurance, company phone, employee discounts",2400.0
-92,25-34,Female,Lisboa,Digital Data Analytics,< 10 years of experience,+ 200 people,"2,600€","Health Insurance, Employee Development Programs, Employee Discounts, Gym Membership",2600.0
-93,18-24,Female,Porto,Digital Designer,< 5 years of experience,25 - 50 people,"1,100€","Health Insurance, Parental Leave, Bi-annual Products, Self-improvement Budget",1100.0
-94,35-44,Female,Lisboa,Digital Marketing & Communications,<15 years of experience,51 - 100 people,"1,630€","Health insurance, Phone (with calls and Internet), extra days off",1630.0
-95,25-34,Female,Porto,Digital Marketing and eCommerce Manager,< 5 years of experience,51 - 100 people,"1,100€","Health Insurance, Lunch pay (5,60€)",1100.0
-96,25-34,Female,Marco de Canaveses,Digital Marketing e Ecommerce Assistant,< 5 years of experience,51 - 100 people,"1,100€",Health Insurance,1100.0
-97,18-24,Female,Lisboa,Digital Marketing Manager,< 5 years of experience,+ 1000 people,"2,000€","Health Insurance, Employee Discounts, lunch tickets (11,50EUR)",2000.0
-98,25-34,Female,Alemanha ,Director,<15 years of experience,+ 1000 people,"11,983€","Health insurance, parental leave, employee dev programs, stock options, lunch ",11983.0
-99,35-44,Female,Lisboa,Director of Data Science,<15 years of experience,+ 500 people,"4,700€","Health Insurance, stock options, parking spot, budget for training, free coffee and fruit, employee discounts",4700.0
-100,35-44,Female,Amsterdam,Director of User Experience,<15 years of experience,51 - 100 people,"10,800€","Lunch, Stock Options",10800.0
-101,25-34,Female,Lisboa,Editorial Manager,< 5 years of experience,100 - 200 people,"2,445€","Health insurance, Parental Leave, Employee Development Programs, Stock Options",2445.0
-102,35-44,Male,Águeda ,Electrical engineer,< 10 years of experience,+ 200 people,"1,250€",,1250.0
-103,25-34,Male,Porto,Engineer,< 2 years of experience,51 - 100 people,"2,000€",,2000.0
-104,25-34,Female,Lisboa,Enterprise Account Executive,< 10 years of experience,+ 200 people,"2,700€",,2700.0
-105,25-34,Female,Lisboa,Finance Manager,< 10 years of experience,51 - 100 people,"3,500€",,3500.0
-106,25-34,Female,Coimbra,Founder,< 5 years of experience,1 - 10 people,957€,,957.0
-107,25-34,Female,Aveiro,Freelance Designer,<15 years of experience,1 - 10 people,"2,000€",,2000.0
-108,25-34,Female,Aveiro,Frontend Developer,<15 years of experience,+ 200 people,"8,400€","Education budget, no limit paid time off, 3 months parental leave, music subscription, books subscription, mental health days, 2 company wide retreats per year, office setup budget, employee discounts in some brands",8400.0
-109,25-34,Female,Lisboa,Frontend Developer,< 2 years of experience,51 - 100 people,"1,500€","Health Insurance, training and paid certifications, food stamps/cartao refeição, possibility of working from home permanently, work computer and mobile phone",1500.0
-110,35-44,Male,Lisboa,Frontend Developer,< 10 years of experience,+ 1000 people,"1,600€","Health Insurance, ",1600.0
-111,35-44,Female,Lisboa,Frontend Developer,< 5 years of experience,100 - 200 people,"1,400€",Health Insurance,1400.0
-112,35-44,Female,Lisboa,Frontend Developer,< 5 years of experience,100 - 200 people,"1,300€","Free fruit (before isolation), meal allowance (ticket), gym discount and day off on my birthday.",1300.0
-113,18-24,Female,Porto,Frontend Developer,< 2 years of experience,1 - 10 people,450€,Company car and gas.  ,450.0
-114,25-34,Female,Porto,Frontend Developer,< 5 years of experience,+ 500 people,"1,700€","Health Insurance, food, pilates, parental leave ",1700.0
-115,25-34,Female,Lisboa,Frontend Developer,< 5 years of experience,+ 1000 people,"1,808€","200€/month in benefits, including health insurance and discounts in gadgets",1808.0
-116,25-34,Female,Porto,Frontend Engineer,< 10 years of experience,+ 1000 people,"2,300€","Health Insurance,
-Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options and Equity",2300.0
-117,18-24,Female,Porto,Frontend Engineer,< 5 years of experience,25 - 50 people,"2,500€","Health insurance, life insurance, gym membership, snacks at the office, parking/subway month ticket",2500.0
-118,35-44,Male,Covilhã,Full Stack Developer,< 2 years of experience,+ 200 people,970€,,970.0
-119,25-34,Male,Porto,Full Stack Developer,< 2 years of experience,+ 500 people,"1,400€","Health insurance, Food allowance(7,20€/day)",1400.0
-120,35-44,Female,Porto,Full Stack Developer,<15 years of experience,+ 200 people,"2,150€","Health insurance, lawyer assistance",2150.0
-121,25-34,Male,Porto,Full Stack Developer,< 5 years of experience,1 - 10 people,"1,400€",None.,1400.0
-122,25-34,Female,Lisboa,Full Stack Developer,< 10 years of experience,+ 1000 people,"2,770€","Health Insurance, Extended Maternal Leave, Child Support, Phone Plan, Nutrition and Psychotherapy Appointments, German Classes, Additional Vacations...",2770.0
-123,35-44,Male,Porto,Full Stack Developer ,> 16 years of experience,+ 1000 people,"2,200€",Some benefits ,2200.0
-124,25-34,Male,Lisboa,Full Stack Engineer,< 10 years of experience,100 - 200 people,"3,136€",Monthly transportation ticket and pension funds,3136.0
-125,25-34,Female,Porto,Fullstack Engineer,< 5 years of experience,11 - 25 people,"2,250€",,2250.0
-126,35-44,Female,Porto,Functional analyst,< 2 years of experience,+ 500 people,900€,"Health insurance, french classes on site, ISTQB exam and preparation classes (free)",900.0
-127,35-44,Female,Porto,Functional analyst,< 2 years of experience,+ 200 people,"1,100€","Health insurance, free online training courses, part of the salary paid in subsistence allowance",1100.0
-128,35-44,Female,Lisboa,Global Head of People & Culture,> 16 years of experience,+ 500 people,"6,000€","Seguro de Saúde, SO",6000.0
-129,25-34,Female,Lisboa,Global Talent Acquisition Manager,<15 years of experience,+ 500 people,"3,250€","Health Insurance, Employee Discounts",3250.0
-130,18-24,Female,Porto,Graphic Designer,< 5 years of experience,11 - 25 people,"1,200€",,1200.0
-131,25-34,Female,London,Group Product Manager,< 10 years of experience,+ 200 people,£8750,,10229.62
-132,35-44,Male,Braga,Hardware engineer,< 10 years of experience,+ 200 people,"2,300€",,2300.0
-133,25-34,Male,Porto,Head Finance,< 10 years of experience,51 - 100 people,"1,530€","expense budget, meal allowance (140 € month)",1530.0
-134,25-34,Female,Porto,Head of Business Development,< 10 years of experience,1 - 10 people,"€1,080",,1080.0
-135,25-34,Female,Porto,Head of Business Development,< 10 years of experience,1 - 10 people,972€,meal allowance and summer + holiday paid in twelfths,972.0
-136,35-44,Female,Lisboa,Head of Commercial Innovation Center,> 16 years of experience,+ 1000 people,"7,000€","Health Insurance, Life Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Car (Gas and tooling included), annual bonus, pension fund.",7000.0
-137,25-34,Female,Porto,Head of communications,< 5 years of experience,1 - 10 people,"2,500€","Health Insurance, free coffee and snaks, Parental Leave, Remote work option, food allowance 140 euro/monthly and Ticket Infância.",2500.0
-138,25-34,Male,Porto,Head of Department,< 10 years of experience,1 - 10 people,"5,000€",+ Bonus depending on business raiseed,5000.0
-139,25-34,Female,Porto,Head of Innovation & Marketing,<15 years of experience,+ 500 people,"3,600€","Health Insurance, Parental Leave, Employee Courses",3600.0
-140,25-34,Female,Braga,Head of Marketing,< 10 years of experience,1 - 10 people,"1,550€",*Some Dev's of my team have perks. I don't have,1550.0
-141,25-34,Female,Lisboa,Head of Marketing,< 10 years of experience,100 - 200 people,"2,600€","Health & Life Insurance, Gym discount, Monthly Transport Ticket, Udemy Account, Phone & Computer, Snacks & Drinks at the office",2600.0
-142,35-44,Female,Lisboa,head of marketing,< 10 years of experience,+ 200 people,"18,000€",,18000.0
-143,35-44,Female,Lisboa,Head of Marketing & Communications,> 16 years of experience,100 - 200 people,"3,600€","Health Uma grande, employee purchase program ",3600.0
-144,25-34,Female,Porto,Head of Marketing and Communications,< 5 years of experience,25 - 50 people,"2,000€","Health Insurance,",2000.0
-145,25-34,Female,Porto,Head of Operations,< 10 years of experience,11 - 25 people,"1,700€","Health insurance, learning budget, 2 one retreats, unlimited vacations, flexible time, profit distribution and remote work",1700.0
-146,35-44,Female,Porto,Head of Operations,<15 years of experience,1 - 10 people,"1,750€","Parental leave, discount on gym, equity",1750.0
-147,35-44,Female,Porto,Head of Operations,> 16 years of experience,11 - 25 people,"1,725€","Equity, parental leave, meal allowance (110€), office food, weekly gatherings for lunch",1725.0
-148,25-34,Female,Porto,Head of Operations,< 10 years of experience,25 - 50 people,"2,400€",Health insurance,2400.0
-149,25-34,Female,Lisboa,Head of People,<15 years of experience,51 - 100 people,"4,167€","Employee Discounts, Gym Membership, health insurance, bonus, mobile, Parental Leave, extra time off ",4167.0
-150,25-34,Female,Lisboa,Head of Product,< 10 years of experience,+ 200 people,"7,100€",Health Insurance,7100.0
-151,25-34,Female,Porto,Head of Research,<15 years of experience,1 - 10 people,"1,080€",,1080.0
-152,18-24,Female,Lisboa,HR,< 5 years of experience,+ 1000 people,"1,182€","Food Allowance, Health Insurance, Life Insurance",1182.0
-153,25-34,Female,Lisboa,HR,<15 years of experience,+ 200 people,"2,600€","Gym, cleaning, office food, monthly team dinners, Quarterly social events.",2600.0
-154,25-34,Female,Lisboa,HR,< 5 years of experience,100 - 200 people,"1,700€",,1700.0
-155,25-34,Female,Lisboa,HR,< 5 years of experience,+ 1000 people,"1,300€","Health Insurance, Work remotely whenever ",1300.0
-156,25-34,Female,Lisboa,HR,< 5 years of experience,51 - 100 people,"1,420€","Health Insurance, Employee Discounts",1420.0
-157,25-34,Female,Lisboa,HR ,< 5 years of experience,+ 500 people,"1,575€",commissions + health insurance + transportation + meal allowance ,1575.0
-158,25-34,Male,Porto,HR - Learning and Development,< 10 years of experience,+ 200 people,"2,300€","Health Insurance, Parental Leave",2300.0
-159,35-44,Female,Porto,HR Business Partner,<15 years of experience,+ 500 people,"2,350€","Health Insurance, Life Insurance, Employee Discount",2350.0
-160,25-34,Female,Vila Nova de Gaia,HR Generalist,< 10 years of experience,+ 1000 people,"1,400€","Health insurance, yearly wins, employee discounts",1400.0
-161,25-34,Female,Lisboa,HR Generalist,< 5 years of experience,+ 1000 people,"1,450€","Health Insurance, Stock Options, Annual Bonus, Employee Discounts, Flexible Schedule, Work From Home Flexibility.",1450.0
-162,25-34,Female,Braga,HR Manager,< 5 years of experience,25 - 50 people,"1,200€","Health insurance, gym, stock options, parental leave",1200.0
-163,35-44,Female,Lisboa,HR Manager,< 5 years of experience,25 - 50 people,"2,500€","Health Insurance, Employee Discounts, Flexible work time",2500.0
-164,35-44,Female,Lisboa,HR Manager,<15 years of experience,51 - 100 people,"2,199€","Health Insurance, EAP, Parental Leave, Employee Development Programs,  Gym Membership, Stock Options and/or Equity, Flexible working pattern",2199.0
-165,25-34,Female,Porto,HR Manager,< 10 years of experience,25 - 50 people,"1,250€",Health insurance and bonus,1250.0
-166,25-34,Female,Coimbra,HR Manager,< 5 years of experience,25 - 50 people,"1,697€","Health Insurance, Parental Leave, Employee Discounts, Stock Options and/or Equity.",1697.0
-167,25-34,Female,Lisboa,HR Service Delivery Consultant,< 5 years of experience,100 - 200 people,"1,667€", Health Insurance,1667.0
-168,25-34,Female,Lisboa,HR-People Experience,< 10 years of experience,+ 1000 people,"2,190€","1) Fix & Flexible benefits (represents ~5% of the annual gross salary and may include Health Insurance, Tuition Reimbursement, Gym Membership, Social Causes, Pension Plan etc.); 2) Employee Discounts (not related w/ benefits); 3) Benefits foreseen by law with add-ons (extra-days, paid leave, paid volunteer hours)",2190.0
-169,25-34,Female,Lisboa,Incident Manager,< 10 years of experience,+ 1000 people,"1,800€","Health Insurance - extendable to the family, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Meal Allowance",1800.0
-170,35-44,Male,Porto,Information Security Director,<15 years of experience,51 - 100 people,"4,500€","health insurance, remote work, stock options, free food, performance bonus, employee discounts, training budget, parental leave",4500.0
-171,35-44,Female,Lisboa,Information Security Manager,> 16 years of experience,+ 1000 people,"2,850€","Health Insurance, Car, Fuel, Parental Leave, Employee Discounts",2850.0
-172,25-34,Female,Porto,Innovation Manager,< 2 years of experience,51 - 100 people,"1,500€","Health insurance, cellphone, bonus",1500.0
-173,25-34,Female,Porto,Innovation Trainee,No experience,51 - 100 people,"1,200€",,1200.0
-174,45-54,Female,Porto,Instructional Designer,> 16 years of experience,+ 1000 people,"2,150€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Stock Options",2150.0
-175,25-34,Female,Loulé,Interior designer + design director + management,< 10 years of experience,1 - 10 people,"2,000€","Parental leave, employee discounts ",2000.0
-176,25-34,Female,Porto,International Business Development Manager,< 5 years of experience,25 - 50 people,"1,080€",Health insurance and employee development plan,1080.0
-177,18-24,Male,Lisboa,Internship,< 2 years of experience,+ 1000 people,"1,550€","Free internet and TV service, Health Insurance",1550.0
-178,25-34,Male,Porto,iOS developer,< 5 years of experience,11 - 25 people,"2,800€",,2800.0
-179,25-34,Female,Lisboa,IT administrator,< 5 years of experience,100 - 200 people,"2,650€",,2650.0
-180,35-44,Female,Lisboa,IT analyst,<15 years of experience,+ 1000 people,"1,125€","IHT 18% , health insurance, transport allownance, pension plan",1125.0
-181,35-44,Female,Porto,IT Business Analyst,< 5 years of experience,+ 500 people,"1,600€",,1600.0
-182,18-24,Female,Porto,IT Business Analyst ,< 2 years of experience,+ 1000 people,"1,600€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Phone",1600.0
-183,25-34,Female,Porto,IT Business Partner,< 2 years of experience,+ 1000 people,"1,290€","Health insurance, free access to company products, gym membership discounts",1290.0
-184,25-34,Female,Lisboa,IT Content Reviewer,< 10 years of experience,+ 1000 people,"1,300€","Health Insurance, Meal card",1300.0
-185,35-44,Female,Lisboa,IT PMO,> 16 years of experience,+ 1000 people,"28,000€","Health insurance, gym membership, retirement fund",28000.0
-186,25-34,Female,porto,IT Project Manager,< 5 years of experience,51 - 100 people,"1,221€","health insurance, flexible schedule, yearly bonus (around a month salary)",1221.0
-187,25-34,Female,Lisboa,IT Recruiter,< 5 years of experience,11 - 25 people,"1,400€","Health insurance, ",1400.0
-188,25-34,Female,Lisboa,IT Recruiter,< 2 years of experience,+ 500 people,"1,000€","Health Insurance, Life Insurance, Meal allowance, employee discounts",1000.0
-189,25-34,Female,Porto,IT Recruiter ,< 5 years of experience,+ 1000 people,"1,500€","Meal allowance, health insurance, annual bonus, training plan ",1500.0
-190,25-34,Female,Porto ,IT Recruiter ,< 5 years of experience,+ 1000 people,"1,600€",Monthly Base + Flex Salary + Bónus + Health Insurance + Life Insurance + Cellphone and Monthly Plan + Meal Allowance + Training Plan ,1600.0
-191,18-24,Female,Lisboa,IT Recruiter & Employer Branding ,< 5 years of experience,+ 200 people,"1,100€","Health Insurance, Life Ensurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Mobile Phone",1100.0
-192,25-34,Female,Lisboa,IT Service Analyst,< 5 years of experience,100 - 200 people,"1,800€","Health and Life Insurance (extended to family), Parental Leave, Employee Discounts, Mobile phone with internet and calls plan, Meal Card (7,63/Day), Transport Allowance.",1800.0
-193,25-34,Female,Porto ,IT Service Manager - Finance,<15 years of experience,+ 1000 people,"3,570€","health insurance,entitle to bonus",3570.0
-194,35-44,Male,Porto,IT Tech Support,> 16 years of experience,100 - 200 people,"1,630€",Health Insurance ,1630.0
-195,35-44,Male,Porto,IT Tech Support,> 16 years of experience,100 - 200 people,"1,630€",Health Insurance ,1630.0
-196,35-44,Male,Porto,IT Tech Support,> 16 years of experience,100 - 200 people,"1,630€",Health Insurance ,1630.0
-197,25-34,Female,Lisboa,Java Developer,< 2 years of experience,100 - 200 people,"1,150€","Health Insurance, employee discounts, gym membership (discount)",1150.0
-198,25-34,Female,Lisboa,Junior Consultant,< 2 years of experience,+ 1000 people,"1,625€","Health and Life Insurance, Employee Discounts and Development Programs",1625.0
-199,18-24,Male,Fundão ,Junior consultant ,< 2 years of experience,+ 1000 people,"1,015€","Health insurance, gym discount, free formations (like French), meal allowance",1015.0
-200,35-44,Female,Porto,Junior data scientist,< 2 years of experience,100 - 200 people,"2,500€","Unlimited PTO as long as goals are achieved. Employee discounts, parental leave, unlimited online courses for personal and career development, 2 trips to USA all covered per year.",2500.0
-201,25-34,Female,Braga,Junior Developer,No experience,51 - 100 people,719€,Employee Discounts,719.0
-202,18-24,Female,Lisboa,Junior Developer,< 2 years of experience,25 - 50 people,800€,Health insurance,800.0
-203,25-34,Female,Lisboa,Junior Developer,< 2 years of experience,+ 1000 people,"1,100€","Health Insurance, Technology Certifications, Employee Discounts",1100.0
-204,35-44,Female,Porto,Junior Developer,No experience,+ 500 people,"1168,83€","Health Insurace extended to family; extra 136,36€ that can be added to monthly gross salary (with tax imputation) or used as net value in  some optional things (children daycare etc...); employee discount in severall places they have protocol with; 2 day/week remote work option; Training and carreer development programme; free fruit and cofee ",1168.83
-205,25-34,Female,Aveiro,Junior Digital Marketeer,< 5 years of experience,11 - 25 people,700€,,700.0
-206,18-24,Female,Lisboa,Junior HR Business Partner,< 5 years of experience,+ 1000 people,"1,325€",Health Insurance,1325.0
-207,35-44,Female,Lisboa,Junior Network Engineer,< 5 years of experience,51 - 100 people,"1,500€","Health & Life Insurance, Employee Development Programs, Employee Discounts, Mobile Phone",1500.0
-208,25-34,Female,Porto,Junior Programmer,< 2 years of experience,100 - 200 people,"1,020€","Like Health Insurance, Remote work, Parental Leave",1020.0
-209,25-34,Female,Braga,Junior Quality Assurance Engineer,< 10 years of experience,100 - 200 people,"1,624€","health insurance, paid lunches and snacks (before isolation), gym discount, city center parking discount, 25 total holidays and bridge holidays, 14 month salary",1624.0
-210,25-34,Female,Lisboa,Junior Software Developer,< 2 years of experience,+ 500 people,919€,Health Insurance,919.0
-211,18-24,Female,Porto,Junior software developer,< 2 years of experience,+ 1000 people,"1,500€","Health Insurance, Parental Leave, Employee Development Programs,Employee Discounts, RSUs, Support tickets (health, education, etc)",1500.0
-212,35-44,Female,Lisboa,L&D Manager,<15 years of experience,+ 500 people,"2,000€",Health Insurance,2000.0
-213,25-34,Female,Lisboa,Lead Data Science Researcher,< 5 years of experience,+ 200 people,"2,400€","Health Insurance, Parental Leave, Training Budget, Yearly bonus based on performance",2400.0
-214,35-44,Female,Lisboa,Lead Data Scientist,<15 years of experience,+ 1000 people,"4,000€","Health Insurance, TV+Internet+Mobile Phone, Bonus, Employee discounts",4000.0
-215,25-34,Female,Cologne (Germany),Machine Learning Engineer,< 5 years of experience,1 - 10 people,"3,500€",Unlimited vacations,3500.0
-216,25-34,Female,Porto,Machine Learning Engineer,< 5 years of experience,25 - 50 people,"1,400€","health insurance, flexible working hours, food",1400.0
-217,25-34,Female,Porto,Manager,< 10 years of experience,25 - 50 people,"2,250€","Health insurance, parental leave, tuition reimbursement ",2250.0
-218,35-44,Female,Porto,Marketing & Communication Manager,<15 years of experience,+ 500 people,"1,600€","Health Insurance, Parental Leave, Marriage Leave, Discounts in partners, 500€ for each child born, online gym classes, English lessons, annual bonus (evaluation), mobile phone, remote work, free fruit, coffee and water at the office, game room, garage place",1600.0
-219,35-44,Female,Lisboa,Marketing & Communication Senior Manager,< 10 years of experience,25 - 50 people,"1,800€",health insurance,1800.0
-220,25-34,Female,Lisboa,Marketing Analyst ,< 2 years of experience,+ 1000 people,"1,500€","Health Insurance, Food Allowance (7.20/day), Employee discounts, free Smartphone and Mobile Plan, Employee Dev Program",1500.0
-221,35-44,Female,Porto ,Marketing and Communication Specialist,< 10 years of experience,+ 200 people,"1,800€","Health insurance, fruit, breakfast, massages, birthday vacation. ",1800.0
-222,25-34,Male,Lisboa,Marketing Assistant,< 2 years of experience,1 - 10 people,800€,,800.0
-223,25-34,Female,Lisboa,Marketing Designer,< 5 years of experience,+ 200 people,"1,250€","Discounts on gym membership and restaurants, language classes, health insurance, parental leave, marriage leave",1250.0
-224,35-44,Female,Lisboa,Marketing expert,<15 years of experience,+ 500 people,"1,900€","Like Health Insurance, Employee Development Programs, Employee Discounts",1900.0
-225,18-24,Female,Lisboa,Marketing Specialist,< 2 years of experience,11 - 25 people,"1,200€",Like Health Insurance,1200.0
-226,25-34,Female,Porto,Marketing Visual Designer,< 10 years of experience,+ 200 people,"1,600€","meal ticket, language classes.",1600.0
-227,25-34,Male,Lisboa,Microsoft BI consultant senior,< 5 years of experience,+ 1000 people,"2,200€",,2200.0
-228,35-44,Female,Porto,Mobile QA engineer,< 5 years of experience,+ 200 people,"1,571€","Health insurance, training",1571.0
-229,25-34,Female,Porto,Multimedia Trainee,< 2 years of experience,11 - 25 people,950€,,950.0
-230,35-44,Female,Porto,Office Manager,> 16 years of experience,11 - 25 people,"1,300€",,1300.0
-231,35-44,Female,Porto,Office Manager,<15 years of experience,11 - 25 people,"1,350€",Health insurance,1350.0
-232,25-34,Female,Lisboa,Operation manager ,< 5 years of experience,1 - 10 people,"1,300€",,1300.0
-233,25-34,Female,Lisboa,Operation manager ,< 5 years of experience,1 - 10 people,"1,300€",,1300.0
-234,25-34,Male,Lisboa,Operations Engineer,< 5 years of experience,25 - 50 people,800€,Meal tickets,800.0
-235,18-24,Female,Lisboa,Operations Manager,< 2 years of experience,1 - 10 people,"1,500€","Health insurance, employee dev. programmes, discounts, training, books, flexible schedule",1500.0
-236,25-34,Female,Lisboa,Operations Manager,< 5 years of experience,11 - 25 people,"2.000,00€","Health Insurance, Parental Leave, Training Program",2000.0
-237,25-34,Female,Madrid,Operations Manager,< 10 years of experience,+ 1000 people,"4,463€","Health Insurance, meals and snacks in office, monthly allowance to spend on company business + employee discount,  cell phone allowance, wellbeing allowance (for gym or related spending), yearly education allowance, 30 paid time off days + 2 personal days,  stock options",4463.0
-238,25-34,Female,Porto,Operations Manager,< 5 years of experience,+ 200 people,"1,850€","health insurance, meal allowances, parental leave, discount in gym, day off on my BD",1850.0
-239,18-24,Female,Porto,Operations Manager,< 5 years of experience,51 - 100 people,"2,172€",Health Insurance ,2172.0
-240,25-34,Female,Lisboa,Optical engineer,< 2 years of experience,+ 1000 people,"2,571€","Health insurance, Stock options, Retirement plan, Annual bonus",2571.0
-241,25-34,Male,Lisboa,Outsystems Developer,< 5 years of experience,1 - 10 people,"1,400€",,1400.0
-242,18-24,Female,Lisboa,Outsystems Developer,< 2 years of experience,+ 1000 people,"1,300€",Health Insurance,1300.0
-243,18-24,Male,Viseu,OutSystems Developer,< 5 years of experience,1 - 10 people,"1,000€",,1000.0
-244,25-34,Female,Lisboa,Payroll Analyst,< 5 years of experience,+ 1000 people,"1,300€","Health Insurance, Transport Allowance, Employee Discounts",1300.0
-245,25-34,Male,Ovar,PCB layouter,< 5 years of experience,+ 500 people,"2,400€","Health insurance, employee discounts, flex-time",2400.0
-246,18-24,Female,Lisboa,Performance Marketing Analyst,< 5 years of experience,+ 1000 people,"1,750€","Health insurance, discount in transportation ",1750.0
-247,25-34,Female,Coimbra,PhD Student,No experience,+ 1000 people,"1,064€","Parental Leave, Sick leave",1064.0
-248,35-44,Female,Lisboa,PR Consultant,< 2 years of experience,25 - 50 people,"2126,83","Cartão Lisbon Viva, Cartão CP",2126.83
-249,35-44,Female,Lisboa,Procurement Manager,<15 years of experience,+ 1000 people,"3,100€","Health Insurance, Employee Discounts",3100.0
-250,25-34,Female,Porto,Product Design Lead,<15 years of experience,+ 500 people,"2,950€","Stock options, Paid transport expenses, health insurance",2950.0
-251,25-34,Female,Coimbra,Product Designer,< 5 years of experience,1 - 10 people,"1,043€",Company Library and budget to attend conferences and workshops,1043.0
-252,25-34,Female,Lisboa,Product Designer,< 10 years of experience,+ 1000 people,"4,368€","Health Insurance & Stock Options & Mobile Phone; Optional: Employee discounts, gym membership, parental leave, food, coffee, car & gas",4368.0
-253,25-34,Female,Lisboa,Product Designer,< 10 years of experience,+ 1000 people,"1,893€","Cellphone, computer, health insurance, life insurance, parental leave, public transportation paid, gym membership, employee discounts, work related expenses paid, employee development programs, remote option",1893.0
-254,35-44,Female,Lisboa,Product Designer,<15 years of experience,+ 500 people,"2,400€","health insurance, private pension (retirement options), learning budget, discount on gym, 2 extra months maternity leave, extra day off depending years in company",2400.0
-255,35-44,Male,Lisboa,Product Designer,< 5 years of experience,+ 1000 people,"1,750€","Health insurance, meal subsidy, vacation allowance (Christmas and Summer)",1750.0
-256,25-34,Female,Porto,Product Designer,< 10 years of experience,+ 500 people,"2,900€","Health Insurance, Parental Leave, Mobile Phone Plan, Extra Vacation Days, and some paternship with gyms and other services",2900.0
-257,25-34,Female,Porto,Product Designer,< 10 years of experience,25 - 50 people,"3,100€","Health Insurance, Parental Leave, Equity/Stocks, Training/Workshop Budget, Conferences Budget, Doctor at the office",3100.0
-258,25-34,Female,Porto,Product Designer,< 2 years of experience,+ 1000 people,"1,800€",Health Insurance,1800.0
-259,18-24,Female,Porto,Product Designer,< 5 years of experience,11 - 25 people,"1,600€",,1600.0
-260,25-34,Female,Berlin,Product Designer,< 5 years of experience,+ 1000 people,"5,480€","Stock Options, Employee Discount.",5480.0
-261,25-34,Female,France/ Fully distributed,Product designer,< 10 years of experience,1 - 10 people,"5,000$",,4746.3
-262,25-34,Female,Barcelona,Product Manager,< 10 years of experience,+ 200 people,"4,150€","Like Health Insurance, Employee Development Programs, Employee Discounts, Equity, Free Lunches",4150.0
-263,25-34,Female,Dublin,Product Manager,< 10 years of experience,+ 500 people,"6,833€","Unlimited holidays, free food (breakfast, lunch, dinner), gym allowance, transport allowance, health insurance",6833.0
-264,25-34,Female,Lisboa,Product Manager,< 10 years of experience,+ 200 people,"4,286€","Health care, Discounts at partners (pharmacy, restaurants, gym, etc), food at the office, access to free leisure activities",4286.0
-265,25-34,Female,Lisboa,Product Manager,< 2 years of experience,+ 200 people,"1,857€",,1857.0
-266,25-34,Female,Lisboa,Product Manager,< 10 years of experience,+ 500 people,"3,500€","Health insurance, training budget, parental leave, snacks at the office",3500.0
-267,35-44,Male,Lisboa,Product Manager,<15 years of experience,+ 1000 people,"3,800€","Company car, Gas Allowance, Health Insurance, Office Perks",3800.0
-268,25-34,Female,Lisboa,Product Manager,<15 years of experience,+ 1000 people,"1,700€","Health Insurance, Company car & gas and Quarterly Bonus ",1700.0
-269,25-34,Female,London,Product Manager,< 10 years of experience,25 - 50 people,"£ 5,500","Health Insurance, Parental Leave, Employee Development Budget, Stock Options",6430.08
-270,25-34,Female,Madrid,Product Manager,< 10 years of experience,+ 1000 people,"3,541€","Parental leave, employee discounts",3541.0
-271,25-34,Female,Porto,Product Manager,< 2 years of experience,+ 1000 people,"2,400€","Employee discounts, Stock options, Health insurance, free transportation, bonus to alocate on some expenses (like Gym, education, Medical Care, etc.)",2400.0
-272,25-34,Female,Lisboa,Product Manager,< 2 years of experience,+ 500 people,"1,650€","health insurance, employee discounts, gym partnerships, stock equity, parental leave, free cosmetic products",1650.0
-273,35-44,Female,Porto,Product Manager,< 10 years of experience,+ 1000 people,"3,150€","health insurance, stock options, employee discounts, extra days-off ",3150.0
-274,35-44,Female,Lisboa,Product Manager ,<15 years of experience,+ 1000 people,"4,000€"," Health Insurance, Employee Development Programs,  Employee Discounts, Gym Membership, Stock Options ",4000.0
-275,35-44,Female,Lisboa,Product Manager ,< 10 years of experience,+ 500 people,"3,530€",Health insurance,3530.0
-276,25-34,Female,Porto,Product Manager (associate),< 2 years of experience,+ 1000 people,"1,500€","Health Insurance, Equity, Bonus, Benefits, Parental leave, Extra days off, Employee discounts",1500.0
-277,35-44,Female,Braga,Product Owner,> 16 years of experience,25 - 50 people,"2,500€","Health Insurance, meals (in addition to the lunch allowance), snacks, more 3 days vacation, mobile budget",2500.0
-278,35-44,Male,Lisboa,Product Owner,< 10 years of experience,+ 1000 people,"3,500€",,3500.0
-279,25-34,Female,Lisboa,Product Owner,< 5 years of experience,+ 1000 people,"2,300€",Health Insurance,2300.0
-280,18-24,Female,Porto,Product Owner,< 5 years of experience,51 - 100 people,"2,150€","Health insurance, +2 vacation days",2150.0
-281,25-34,Female,Porto,Product Owner,< 5 years of experience,+ 500 people,"1,750€","Health insurance, annual bonus, food (breakfast, snacks), discount partnerships, food allowance (7.23€ p/day) ",1750.0
-282,25-34,Female,Lisboa,Product Owner ,<15 years of experience,+ 1000 people,"3,813€","Health Insurance, Car, Fuel Allowance (60€/month), Communications allowance (40€/month), Stock Options, Training and Food Allowance - 7.63€/day",3813.0
-283,25-34,Female,New York,Product Strategy Lead,< 10 years of experience,+ 1000 people,"$13,750","Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Stock Options and Equity ",13050.81
-284,35-44,Male,Lisboa,Program Manager,<15 years of experience,+ 1000 people,"3,850€",,3850.0
-285,25-34,Female,Porto,Program Manager,< 5 years of experience,11 - 25 people,"1,220€",Health insurance,1220.0
-286,18-24,Male,Lisboa,Project Engineer,< 2 years of experience,+ 200 people,"2,800€",Health Insurance,2800.0
-287,25-34,Female,Lisboa,Project Manager,< 5 years of experience,11 - 25 people,"1,350€","Lunch, health insurance, flexible schedule, non-fixed leave without pay ",1350.0
-288,25-34,Female,Lisboa,Project Manager,< 5 years of experience,11 - 25 people,"1,300€","health insurance, meal allowance, bonus",1300.0
-289,25-34,Female,Lisboa,Project Manager,< 5 years of experience,+ 200 people,"1,950€","Health Insurance, Employee Discounts (Gym, Hotels etc)",1950.0
-290,18-24,Female,London,Project Manager,< 2 years of experience,+ 1000 people,"2,500€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options",2500.0
-291,25-34,Female,Porto,Project Manager,<15 years of experience,25 - 50 people,"2,600€",Health insurance,2600.0
-292,25-34,Female,Porto,Project Manager,< 10 years of experience,51 - 100 people,"4,000€",,4000.0
-293,25-34,Female,Porto,Project Manager,< 5 years of experience,25 - 50 people,"2,100€",Car and bonus,2100.0
-294,25-34,Female,Lisboa,Project Manager,< 5 years of experience,+ 1000 people,"2,800€","Health Insurance, Parental Leave",2800.0
-295,25-34,Female,Porto,Project Manager,< 10 years of experience,25 - 50 people,"3,100€","Health Insurance, Employee Development Programs",3100.0
-296,25-34,Female,Porto,Project Manager,< 5 years of experience,51 - 100 people,"1,650€","3 extra vacation days, Health insurance plan, Mobile phone plan, Flexible schedule, Yearly bonus (around a month salary).",1650.0
-297,25-34,Female,Lisboa,Project Manager,<15 years of experience,+ 1000 people,"2,850€","Paid internet, tv and phone, health insurrance",2850.0
-298,45-54,Female,Porto,Projet Manager,> 16 years of experience,25 - 50 people,"1,517€",215€ and phone,1517.0
-299,35-44,Female,Porto,Purchasing Manager,< 10 years of experience,+ 1000 people,"2,370€",Health insurance,2370.0
-300,35-44,Female,Braga,Purchasing Project Management ,<15 years of experience,+ 1000 people,"1,640€","Health Insurance, Employee Discounts. Parental Leave as a right by law",1640.0
-301,18-24,Female,Porto,QA Analyst,No experience,+ 200 people,"1,600€","Health Insurance, Mobile Allowance",1600.0
-302,25-34,Male,Lisboa,QA Engineer,< 10 years of experience,+ 200 people,"1,550€","Health Insurance, Employee Development Programs, Receive Travel Expenses",1550.0
-303,25-34,Female,Porto,QA Engineer,< 2 years of experience,25 - 50 people,600€,Health Insurance,600.0
-304,25-34,Female,Lisboa,QA Engineer,< 5 years of experience,+ 200 people,"2,953€","Health insurance, parental leave, employee development programs, public transportation monthly pass, employee discounts, 3 additional vacation days after a year",2953.0
-305,35-44,Female,Aveiro,QA Manager,< 10 years of experience,+ 500 people,"3,100€","Health Insurance, Employee Development Programs, Stock options, public transports fee",3100.0
-306,35-44,Female,Lisboa,"QA Manager, Software Developer",<15 years of experience,51 - 100 people,"1,900€","Health Insurance, Parental Leave, Pharmacy discounts, restaurant discount",1900.0
-307,25-34,Female,Lisboa,QA tester,< 2 years of experience,+ 200 people,"1,100€","Employee Discounts, Gym Membership, premiums by performance",1100.0
-308,25-34,Female,Porto,Quality Assurance Lead,< 5 years of experience,25 - 50 people,"3,100€","Health Insurance to all family, meal card, remote work",3100.0
-309,25-34,Female,Porto,Quality planner,< 2 years of experience,+ 500 people,"1,600€","Doctor on site, German and English teachers on site and development programs",1600.0
-310,25-34,Female,Coimbra,Recruitment lead,< 10 years of experience,100 - 200 people,"3,150€",Health Insurance.,3150.0
-311,25-34,Female,Lisboa,Research Scientist,< 5 years of experience,+ 1000 people,"2,400€",,2400.0
-312,35-44,Female,Carnaxide,Responsável de Recrutamento e Comunicação Interna,< 10 years of experience,+ 500 people,"1,500€",Health Insurance,1500.0
-313,25-34,Female,Lisboa,Reverse Logistics Manager,< 2 years of experience,+ 500 people,"1,020€","Health Insurance, Gym Membership",1020.0
-314,25-34,Female,Porto,Rockstart Developer,< 5 years of experience,+ 500 people,"1,300€","Health Insurance, employee development program",1300.0
-315,25-34,Female,Lisboa,Sales ,< 5 years of experience,100 - 200 people,"4,400€","Health insurance, parental leave, employee development programs, stock options, employee discounts, breakfast and lunch for free and snacks, massages, personal workspace allowance",4400.0
-316,25-34,Female,Porto ,Sales and Marketing assistant,< 10 years of experience,+ 1000 people,"1,705€","health insurance, meal allowance, unlimited home office, development programs,",1705.0
-317,35-44,Female,Braga,Sales Manager,<15 years of experience,11 - 25 people,"1,100€","
-Flexible schedule, free birthday, snacks, sickness allowance supplement.",1100.0
-318,18-24,Male,Lisboa,Salesforce Developer,< 2 years of experience,+ 1000 people,"1,200€","Health Insurance, Employee Development Programs, Phone, Employee Discounts",1200.0
-319,25-34,Female,Lisboa,Salesforce Developer,< 5 years of experience,100 - 200 people,"1,650€","Health Insurance, Plan Mobile Phone, Meal card",1650.0
-320,18-24,Male,Lisboa,Salesforce developer,< 2 years of experience,+ 1000 people,"1,200€","Health Insurance, Employee Development Programs",1200.0
-321,25-34,Female,Lisboa,Salesforce Senior Consultant / Business Analyst,< 5 years of experience,+ 200 people,"2,070€","Cost help (3300 per year, to be divided as I want on a monthly basis); health insurance (for which I pay ~90eur/year); 100€ voucher with Vodafone for buying a phone upon my entrance; mobile phone package",2070.0
-322,25-34,Female,Odivelas,SAP ABAP Developer,< 10 years of experience,51 - 100 people,"2,700€","Health Insurance, Free Parking",2700.0
-323,25-34,Female,Lisboa,SAP Consultant,< 10 years of experience,100 - 200 people,"2,500€",,2500.0
-324,25-34,Female,Lisboa,SAP Development consultant,< 5 years of experience,+ 1000 people,"1,500€","Health insurance, Parental Leave, Gym membership discounts, Stock Options",1500.0
-325,18-24,Male,Lisboa,SAP SuccessFactors Consultant,< 2 years of experience,100 - 200 people,"1,200€",Life issurance,1200.0
-326,18-24,Female,Lisboa,Scrum Master,< 5 years of experience,100 - 200 people,"2,100€","health insurance, life insurance, public transports, renting car",2100.0
-327,35-44,Female,Faro,Senior Business Administrator ,> 16 years of experience,100 - 200 people,"1,750€",Health Insurance; Employee Development Programs; Tuition Reimbursement; 4 day week,1750.0
-328,25-34,Female,Lisboa,Senior Consultant,< 5 years of experience,+ 1000 people,"1,790€","Health Insurance, Parental Leave, Employee Discounts, Food Allowance, Subsistence Allowance and Travel Costs",1790.0
-329,35-44,Male,Lisboa,Senior Consultant,<15 years of experience,+ 1000 people,"1,800€",Health Insurance,1800.0
-330,35-44,Female,Lisboa,Senior consultant,< 10 years of experience,+ 1000 people,"2,450€","Health insurance, Car allowance.",2450.0
-331,25-34,Male,Porto,Senior Consultant,< 10 years of experience,+ 1000 people,"2,875€",,2875.0
-332,35-44,Female,New York,Senior Counsel ,<15 years of experience,+ 1000 people,"5,500€","Health insurance, life insurance ",5500.0
-333,25-34,Female,Lisboa,Senior Data Scientist,< 5 years of experience,+ 1000 people,"3,300€","Health Insurance, Bonus, Stock Options, Food Allowance",3300.0
-334,25-34,Female,Porto,Senior Designer,< 5 years of experience,+ 200 people,"2,500€","Bonus, Health Insurance, Parental Leave, Training, Massages, Pilates, etc",2500.0
-335,35-44,Female,Lisboa,Senior Designer,> 16 years of experience,11 - 25 people,"1,350€",Parental Leave,1350.0
-336,35-44,Male,Lisboa,Senior Engineering Manager,<15 years of experience,+ 1000 people,"4,445€",Health Insurance and Stock Options.,4445.0
-337,25-34,Female,Porto,Senior Financial Analyst,< 5 years of experience,25 - 50 people,"2,000€","Health Insurance, flex benefits (Netflix, Spotify)",2000.0
-338,25-34,Female,Porto,Senior Frontend Engineer,< 5 years of experience,51 - 100 people,"9,500€","Health Insurance, Parental Leave, Profit sharing, Free books and Kindle, Home office setup, Coworking/Coffee shop reimbursement , Sabbaticals ",9500.0
-339,25-34,Female,Lisboa,Senior IRM specialist,< 10 years of experience,+ 1000 people,"2,140€",,2140.0
-340,25-34,Female,Braga,Senior Manager,< 10 years of experience,+ 1000 people,"2,600€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Mobile Office, Career Path",2600.0
-341,25-34,Male,Lisboa,Senior Manager,<15 years of experience,+ 1000 people,"3,200€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options",3200.0
-342,25-34,Female,London,Senior Manager,< 10 years of experience,+1000 people,"8,333€","Health insurance, life insurance, parental leave, training, stocks, discounts, extra holidays, extra paid leave",8333.0
-343,35-44,Female,Lisboa,Senior Marketing executive,> 16 years of experience,+ 500 people,"1,500€",Health and life Insurance,1500.0
-344,25-34,Female,Lisboa,Senior Product Designer,< 10 years of experience,+ 1000 people,"3,200€","Meal allowance, transports allowance, health insurance, annual bonus.",3200.0
-345,25-34,Female,Lisboa,Senior Product Designer,< 10 years of experience,+ 1000 people,"2,570€","Meal allowance, transports allowance, health insurance, annual bonus.",2570.0
-346,25-34,Female,Porto,Senior Product Manager,< 10 years of experience,+ 1000 people,"2,500€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options and/or Equity.",2500.0
-347,25-34,Female,Lisboa,Senior Software Engineer,< 10 years of experience,+ 1000 people,"2,600€","Health insurance, stock options, bonus",2600.0
-348,25-34,Female,Lisboa,Senior Software Engineer,< 5 years of experience,+ 500 people,"2,200€","Health Insurance, Stock Options 140€ (meal allowance)",2200.0
-349,45-54,Male,Lisboa,Senior System Analyst,> 16 years of experience,+ 200 people,"2,840€","Employee Development Programs, Employee Discounts",2840.0
-350,25-34,Male,Lisboa,Senior System Developer,< 10 years of experience,+ 200 people,"2,150€","Food card, parking spot, health insurance, paid public transport pass within certain values",2150.0
-351,35-44,Male,Lisboa,Senior UX Designer,> 16 years of experience,+ 500 people,"3,900€","Health Insurance, Parental Leave, Mobile plan",3900.0
-352,25-34,Female,Lisboa,Senior UX Designer ,< 10 years of experience,+ 500 people,"2,800€","2000€ anual training, ticket infância 50€ per kid, health insurance, anual bonus (around 3x net salary) ",2800.0
-353,35-44,Female,Lisboa,Senior UX Designer and Team Leader,<15 years of experience,+ 500 people,"2,100€","Health insurance, Parental Leave, Annual Bonus",2100.0
-354,25-34,Male,Lisboa,Senior UX Researcher,< 5 years of experience,+ 1000 people,"4,285€","Health Insurance, Gym membership, Stock Options, Employee Discounts, Tuition Reimbursement, Parental Leave, Development Programs",4285.0
-355,35-44,Female,Lisboa,Senior Writer,<15 years of experience,+ 1000 people,"2,420€","Health, yearly bonus (€4000-€6000)",2420.0
-356,25-34,Female,Lisboa,Service Delivery Manager,< 10 years of experience,+ 1000 people,"1,800€","Health insurance, parental leave, children ticket, marriage bonus, ticket restaurant, pension fund, transportation allowance, study support, internal training catalogue",1800.0
-357,25-34,Female,Lisboa,Service Delivery Manager,< 10 years of experience,+ 500 people,"1,600€","Meal allowance, health insurance, paid SIM only, paid certifications",1600.0
-358,25-34,Female,Lisbon,Service Manager & People Development Coordinator,< 10 years of experience,+ 1000 people,"1,400€",Health Insurance,1400.0
-359,25-34,Male,Lisboa,Software Architect,< 5 years of experience,25 - 50 people,"3,986€",,3986.0
-360,25-34,Female,Aveiro,Software Developer,< 5 years of experience,+ 1000 people,"2,150€","Health Insurance, Flexible Working Hours (within a pre-defined interval), Home Office some days per week, Employee Discounts, Employee Development Programs, Full Tuition Reimbursement, Bonus",2150.0
-361,35-44,Male,"Ibiza, Spain",Software Developer,> 16 years of experience,1 - 10 people,"5,000€",,5000.0
-362,25-34,Male,Lisboa,Software Developer,< 10 years of experience,25 - 50 people,"2,300€",Health Insurance,2300.0
-363,25-34,Male,Lisboa,Software Developer,< 10 years of experience,+ 500 people,"2,600€","Health insurance, employee discounts, ",2600.0
-364,35-44,Female,Lisboa,Software Developer,< 10 years of experience,+ 200 people,"4,400€","Health insurance for me and my family, parent leaves, extra days of vacations and bonus",4400.0
-365,35-44,Female,Porto,Software Developer,<15 years of experience,+ 1000 people,"1,400€",Productivity bonus,1400.0
-366,25-34,Female,Braga,Software Developer,< 2 years of experience,+ 1000 people,"1,424€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership",1424.0
-367,25-34,Male,Lisboa,Software Developer,< 5 years of experience,+ 1000 people,"1,800€","Health Insurance, Parental Leave, ",1800.0
-368,25-34,Male,Lisboa,Software Developer,< 5 years of experience,25 - 50 people,"2,100€",Health Insurance,2100.0
-369,18-24,Female,Lisboa,Software Developer,No experience,+ 1000 people,"1,752€","Health Insurance, Parental Leave, Tuition Reimbursement, Employee Discounts, montly phone plan, breakfast and small lunch in the office, car & motorbike buying with discount, pluralsight account, renting a company car for some days to try, leasing a car with a discount, renting electrical bikes, weekly meditation and languages classes, weekly group counseling ",1752.0
-370,25-34,Male,Lisboa,Software Developer,< 10 years of experience,51 - 100 people,"3,150€","Meal allowence, Health Insurance",3150.0
-371,25-34,Female,Lisboa,Software Developer,< 10 years of experience,+ 200 people,"1,250€",Health Insurance,1250.0
-372,25-34,Female,Lisboa,Software Developer,< 10 years of experience,100 - 200 people,"1,300€","Health Insurance, Employee Discounts",1300.0
-373,25-34,Female,Lisboa,Software Engineer,< 5 years of experience,25 - 50 people,"2,328€","health insurance, meal allowance",2328.0
-374,25-34,Female,Lisboa,Software Engineer,< 10 years of experience,+ 1000 people,"1,900€","Health Insurance, Gym Membership, Stock Options, Gadget reimbursement, Employee Discounts, Parking Space, Conference tickets Reimbursement, English Lessons",1900.0
-375,35-44,Male,Lisboa,Software Engineer,<15 years of experience,+ 1000 people,"3,200€",Health Insurance,3200.0
-376,35-44,Female,Lisboa,Software Engineer,<15 years of experience,100 - 200 people,"3,129€","Breakfast and weekly lunch provided by the company, breastfeeding room, weekly massage, discounts on pharmacies, discounts on buying cars.",3129.0
-377,25-34,Male,Lisboa,Software Engineer,< 10 years of experience,+ 1000 people,"3,192€","health insurance, stock options, employee discounts",3192.0
-378,25-34,Female,Lisboa,Software Engineer,< 5 years of experience,25 - 50 people,"1,636€",,1636.0
-379,35-44,Female,Lisboa,Software Engineer,<15 years of experience,+ 500 people,"2,330€","Health insurance, stock options",2330.0
-380,25-34,Male,Porto,Software Engineer,<15 years of experience,100 - 200 people,"1,900€",Like Health Insurance,1900.0
-381,25-34,Female,Porto,Software Engineer,< 10 years of experience,11 - 25 people,"1,900€","Parental Leave, Monthly budget for office expenses.",1900.0
-382,25-34,Female,Porto,Software Engineer,< 5 years of experience,51 - 100 people,"1,950€","health insurance, office snacks",1950.0
-383,18-24,Female,Porto,Software Engineer,< 5 years of experience,51 - 100 people,"1,583€","Health Insurance, Flexibel time",1583.0
-384,25-34,Female,Porto,Software Engineer,< 2 years of experience,25 - 50 people,"1,750€","Health and life insurance, flexible hours, remote possible, coffee and fruit",1750.0
-385,25-34,Male,Vienna,Software Engineer,< 5 years of experience,100 - 200 people,"4,700€",Stock Options,4700.0
-386,25-34,Female,Aveiro,Software Engineer,< 5 years of experience,+ 1000 people,"1,700€","Health insurance, Discounts in verious services (Gyms, Shops, etc.), Yearly bonus (from 0.9 to 1.2 +/- of gross salary), Employee Development Program (may change according to manager assigned)",1700.0
-387,25-34,Male,Braga,Software Engineer,< 5 years of experience,25 - 50 people,"2,600€","Health Insurance, Meal allowance",2600.0
-388,25-34,Male,Braga,Software Engineer,< 2 years of experience,+ 200 people,"1,320€",Health Insurance,1320.0
-389,25-34,Female,Porto,Software engineer,<15 years of experience,100 - 200 people,"2,300€","Health insurance, life insurance, mobile phone with 5GB internet plafond, 25 days vacation plus 2 or 3 /year, 35h/w",2300.0
-390,25-34,Male,Lisboa,Software Engineer ,< 10 years of experience,+ 1000 people,"2,150€","Meal allowance, 200€ of flex benefits, Health Insurance, Snacks and Drinks. Stock options",2150.0
-391,18-24,Male,Lisboa,Software Engineer ,< 2 years of experience,+ 500 people,"2,333€","Training budget, employee discounts, 3 more days of PTO, bonus up to 3 times the income (depending on performance) ",2333.0
-392,25-34,Female,Porto,Software QA Consultant,< 5 years of experience,+ 500 people,"1,500€","Health Insurance, Emplyee Development Programs, Employee discounts",1500.0
-393,25-34,Female,Porto,Software QA tester,< 2 years of experience,+ 200 people,"1,350€","Health insurance, parental leave, development programs, employee discounts",1350.0
-394,25-34,Female,Coimbra ,Software Quality Engineer ,< 5 years of experience,+ 200 people,"1,750€","Health insurance, anual salary review, some bonuses - different every year ",1750.0
-395,25-34,Female,Oeiras,Software Tester,< 2 years of experience,100 - 200 people,"1,400€",Health Insurance,1400.0
-396,25-34,Female,Porto,Software Tester,< 5 years of experience,+ 200 people,"2,000€","Health insurance, employee discounts, food and coffe",2000.0
-397,25-34,Female,Porto,Solution Architect,< 10 years of experience,+ 200 people,"2,100€","Health insurance, meal allowance (6.8€/day), working 32h/week, cellphone with monthly plan",2100.0
-398,35-44,Male,Lisboa,SRE,> 16 years of experience,25 - 50 people,"4,580€","Health insurance, meal ticket, 1000 EUR/year for training",4580.0
-399,25-34,Female,Lisboa,Supply Chain Specialist,< 5 years of experience,+ 500 people,"2,100€","Health Insurance, Food Allowance, Laptop",2100.0
-400,25-34,Female,Porto,Support Engineer,No experience,+ 1000 people,"2,400€","Health insurance, annual bonus, meal card, stocks",2400.0
-401,25-34,Female,Braga,SW Engineer,< 5 years of experience,+ 1000 people,"1,600€","Health insurance, time flexibility",1600.0
-402,25-34,Male,Lisboa,Talent Acquisition Manager,< 10 years of experience,100 - 200 people,"2,100€",health insurance,2100.0
-403,25-34,Male,Lisboa,Talent Acquisiton Specialist,< 5 years of experience,+ 1000 people,"1,700€","Health insurance, Share Matching, Pension Plan, Employee Development Programs, Employee Discounts, 4 days home office/week",1700.0
-404,35-44,Female,Lisboa,Talent Manager ,<15 years of experience,+ 1000 people,"1,900€",Health insurance,1900.0
-405,25-34,Female,Lisboa,Team Lead,< 10 years of experience,100 - 200 people,"3,470€","Bonus, health insurance, employee discounts, mobile+laptop, parking ",3470.0
-406,25-34,Female,Lisboa,Team Lead,< 10 years of experience,+ 1000 people,"1,600€","Health Insurance, Communications plan",1600.0
-407,25-34,Female,Lisboa,Team Lead,< 5 years of experience,+ 1000 people,"1,500€",Health insurance,1500.0
-408,35-44,Female,Lisboa,Team Lead UX&UI,<15 years of experience,+ 1000 people,"1,800€",,1800.0
-409,25-34,Female,Lisboa,Technical Engineer,< 10 years of experience,+ 500 people,"2,800€","Live health insurance, equity in the company, parental leave, 30 days of vacations, annual bonus",2800.0
-410,35-44,Male,Lisboa,Technical Support Coordinator,< 5 years of experience,+ 1000 people,"1,400€","Health insurance, retirement plan, anual bonus",1400.0
-411,25-34,Female,Porto,Technical Support Engineer,< 5 years of experience,+ 200 people,"1,200€","Like Health Insurance, Parental Leave, Employee Development Programs.",1200.0
-412,25-34,Female,Aveiro,Technician HR,< 5 years of experience,+ 500 people,"1000,00€",Attendance Award; Annual Bonus; Health insurance,1000.0
-413,25-34,Female,Lisboa,Technology Consultant,< 5 years of experience,+ 1000 people,"1,867€","Health insurance, parental leave, employee discounts, payed phone communications",1867.0
-414,25-34,Female,Lisboa,Test Engineer,< 10 years of experience,+ 200 people,"3,550€","Health Insurance, Parental Leave, Employee Development Programs, Gym Membership, Stock Options, Free food in the office",3550.0
-415,18-24,Female,Gothenburg,Trainee,No experience,+ 1000 people,"3,100€","Fitness allowance (~250eur/year), Driving days, Employee discounts, Life insurance, Paid parental leave ",3100.0
-416,25-34,Female,Lisboa,Trainee,< 2 years of experience,+ 1000 people,"1,200€","health insurance, fre memberships to access courses in some websites",1200.0
-417,25-34,Female,Lisboa,Treasurer Analyst,< 5 years of experience,+ 1000 people,"1,750€","Health Insurance, GYM allowance, Transportation allowance, studies allowance",1750.0
-418,25-34,Female,Lisboa,UI designer,< 2 years of experience,100 - 200 people,803€,"Health insecurance, employee discounts",803.0
-419,25-34,Female,Lisboa,UI Designer,< 10 years of experience,11 - 25 people,"2,300€",Parental leave,2300.0
-420,25-34,Female,Lisboa,UI Designer,< 2 years of experience,+ 200 people,"1,060€","Employee Discounts, Flexible hours, Anual salary review",1060.0
-421,25-34,Male,Porto,UI/UX Designer,<15 years of experience,+ 500 people,"1,850€","Health Insurance, Parental Leave, Mobile Plan, Meal allowance (Card), Office coffee and snacks, Performance bonus,  Development Programs, English classes",1850.0
-422,18-24,Female,Porto,UI/UX Designer,< 5 years of experience,25 - 50 people,"1,173€","Health insurance, bonus from company sales ",1173.0
-423,25-34,Female,Lisboa,UI/UX Designer,< 5 years of experience,+ 1000 people,"1,400€",Extra money (100€) for health insurance and other benefits,1400.0
-424,35-44,Male,Lisboa,UX Designer,< 5 years of experience,+ 1000 people,"1,790€","Health Insurance, Reimbursements on some expensas (90€), A la card (Food per diem of 6,80€)",1790.0
-425,25-34,Female,Lisboa,UX Designer,< 10 years of experience,+ 1000 people,"2,425€","Health Insurance, Parental Leave, Employee Discounts",2425.0
-426,25-34,Female,Lisboa,UX Designer,< 5 years of experience,25 - 50 people,1 690,"Health Insurance, Employee Discounts, Employee Development Program",1690.0
-427,18-24,Female,Porto,UX Designer,No experience,+ 500 people,600€,,600.0
-428,25-34,Female,São Paulo,UX Designer,< 10 years of experience,+ 1000 people,"7,200€","Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement,  Stock Options and/or Equity",7200.0
-429,25-34,Female,Porto,UX Designer,< 10 years of experience,25 - 50 people,"1,267€","Health insurance, Parental Leave",1267.0
-430,25-34,Female,Porto,UX Designer,<15 years of experience,+ 500 people,"2,500€","health insurance, parentalleave, employee development programs, anual bonus, extra vacation days",2500.0
-431,25-34,Female,Lisboa,Ux Designer,< 2 years of experience,51 - 100 people,"1,250€",,1250.0
-432,18-24,Male,Lisboa,UX Designer/Frontend Developer,< 2 years of experience,+ 1000 people,"1,325€","Health insurance, meal subsidy",1325.0
-433,35-44,Female,Lisboa,UX Lead,<15 years of experience,+ 500 people,"3,500€",Car + health insurance,3500.0
-434,25-34,Female,Lisboa,UX Researcher,< 10 years of experience,1 - 10 people,"1,100€",Health Insurance,1100.0
-435,25-34,Female,Aveiro,UX Strategist,< 10 years of experience,+ 500 people,"1,505€",,1505.0
-436,25-34,Female,Lisboa,UX UI Designer,< 5 years of experience,25 - 50 people,"1,000€","Health Insurance, parental leave, employee discounts, employee development programs",1000.0
-437,25-34,Male,Lisboa,UX/UI Designer,< 10 years of experience,+ 500 people,"1,300€","health insurance, parental leave, employee discounts",1300.0
-438,25-34,Female,Lisboa,UX/UI Designer,< 2 years of experience,+ 1000 people,"1,050€","Health Insurance, Parental leave and Employee Discounts",1050.0
-439,25-34,Female,Lisboa,UX/UI Designer,< 5 years of experience,51 - 100 people,"1,500€","Health Insurance, Employee Discounts, Parental Leave",1500.0
-440,35-44,Female,Lisboa,UX/UI Designer,< 2 years of experience,51 - 100 people,"1,000€","health insurance, Employee Discounts",1000.0
-441,25-34,Female,Loulé,UX/UI Designer,< 10 years of experience,1 - 10 people,"2,316€",,2316.0
-442,18-24,Female,Viana do Castelo ,UX/UI Designer,< 2 years of experience,1 - 10 people,724€,Health Insurance ,724.0
-443,25-34,Female,Lisboa,UX/UI Software Developer,< 5 years of experience,25 - 50 people,"2,975€",Flexible benefits plans. In my case I chose Health Insurance and Ticket Care.,2975.0
+,idade,genero,local,titulo,anos_de_experiencia,tamanho_da_empresa,salario_bruto_mensal,outros_beneficios,salario_processado,bins_salario
+0,18-24,mulher,Porto,Accounting Assistant,< 2 anos de experiência,+ 1000 pessoas,860€,"Health insurance, Parental Bonus, First 3 days of sick leave paid",860.0,menos de 2000
+1,35-44,mulher,Lisboa,Analytics Team Coordinator ,> 16 anos de experiência,+ 200 pessoas,"1,800€","Health Insurance, Employee Discounts",1800.0,menos de 2000
+2,35-44,mulher,Lisboa,Analytics Team Leader,<15 anos de experiência,+ 200 pessoas,"3,000€","Health Insurance, Gym membership",3000.0,2000-3999
+3,25-34,homem,Vienna,Android Developer,<15 anos de experiência,100 - 200 pessoas,"4,500€",No,4500.0,4000-6000
+4,18-24,mulher,Lisboa,Animator,Sem experiência,11 - 25 pessoas,750€,,750.0,menos de 2000
+5,25-34,mulher,Lisboa,Assistance consulting ,< 2 anos de experiência,+ 1000 pessoas,"1,128€",,1128.0,menos de 2000
+6,45-54,homem,Porto,BI developer ,> 16 anos de experiência,+ 1000 pessoas,"2,900€",Health insurance,2900.0,2000-3999
+7,35-44,mulher,Lisboa,Brand and communication management ,<15 anos de experiência,+ 1000 pessoas,"1,300€",,1300.0,menos de 2000
+8,25-34,mulher,Lisboa,Brand Design Manager,<15 anos de experiência,+ 500 pessoas,"2,445€","Health Insurance extended to family; Life Insurance, Meal Card, Stock Options, Flex expenses (anual value where you can use in daycare, amazon, apple,etc)  ",2445.0,2000-3999
+9,45-54,mulher,Lisboa,Business Analysis,> 16 anos de experiência,+ 1000 pessoas,"3,980€","health insurance, Employee Discounts",3980.0,2000-3999
+10,25-34,homem,Lisboa,Business Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,500€",Health Insurance,1500.0,menos de 2000
+11,25-34,mulher,Porto,Business Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,600€","Health Insurance, Employee Discounts, Stock Options, Expenses Reimbursement (gym, health, tuition, day care)",1600.0,menos de 2000
+12,35-44,mulher,Porto,Business Analyst,<15 anos de experiência,+ 200 pessoas,"3,200€",health insurance,3200.0,2000-3999
+13,25-34,mulher,Lisboa,Business Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,850€",Health insurance,1850.0,menos de 2000
+14,25-34,mulher,Lisboa,Business Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,850€","Health Insurance, Meal Card, Flex expenses (anual value you can use in gym, pharmacy, school, fnac/staples, etc), 4h/week for volunteering",1850.0,menos de 2000
+15,25-34,mulher,Lisboa,Business Developement Manager,< 10 anos de experiência,11 - 25 pessoas,"2,500€",Company car for personal use + Fuel Allowance 175€/month + 500€/Month Life Insurance + Meal Allowance 7.63€/day + Health Insurance + Birthday day off + Bonuses related with business development goals ,2500.0,2000-3999
+16,35-44,mulher,Aveiro,Business Developer,< 5 anos de experiência,11 - 25 pessoas,1€, Snacks&Coffee (office); Mobile Phone Plan; Laptop ,1.0,menos de 2000
+17,25-34,mulher,Braga,Business Developer,< 10 anos de experiência,1 - 10 pessoas,"1,400€",Gym membership; mobile phone; 200€/yearly formation reimbursement,1400.0,menos de 2000
+18,25-34,mulher,Lisboa,Business Development,< 5 anos de experiência,25 - 50 pessoas,"1,500€","Meal allowance, health insurance, learning budget, commissions, flexible schedule and remote work possible",1500.0,menos de 2000
+19,25-34,mulher,Lisboa,Business Development Representative,< 5 anos de experiência,25 - 50 pessoas,880€,Meal allowance ,880.0,menos de 2000
+20,25-34,homem,Porto,Business Intelligence Consultant,< 5 anos de experiência,+ 200 pessoas,"2,270€","Health Insurance, Employee Discounts, Employee Development Programs",2270.0,2000-3999
+21,25-34,mulher,Lisboa,Business Intelligence Developer,< 5 anos de experiência,+ 200 pessoas,"2,200€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Meal Card (+160€), Mobile Phone, Free coffee and fruit, Payed certifications, Remote work",2200.0,2000-3999
+22,25-34,mulher,Porto,Business Intelligence Developer,< 5 anos de experiência,+ 1000 pessoas,"1,800€","Health Insurance, Employee Discounts, Meal Card (+/-140€), Mobile Phone, Remote work",1800.0,menos de 2000
+23,25-34,mulher,Lisboa,Business Intelligence Developer,< 5 anos de experiência,25 - 50 pessoas,"1,600€",Health Insurance,1600.0,menos de 2000
+24,25-34,homem,Lisboa,Business Lead,< 2 anos de experiência,25 - 50 pessoas,"1,200€","Health Insurance, Variable Salary",1200.0,menos de 2000
+25,35-44,mulher,Lisboa,Business Unit Manager,> 16 anos de experiência,+ 1000 pessoas,2800€ gross + 1000€ liquido despesas e viatura + 20000€ bruto variavel anual,"Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Stock acquisition program.",2800.0,2000-3999
+26,25-34,mulher,Lisboa,Campus Lead,< 5 anos de experiência,100 - 200 pessoas,"2,660€",Education Perk,2660.0,2000-3999
+27,35-44,mulher,Lisboa,CEO,< 10 anos de experiência,1 - 10 pessoas,"3,500€","None, we are a not for profit and we cannot afford that yet",3500.0,2000-3999
+28,35-44,homem,Porto,CEO,> 16 anos de experiência,1 - 10 pessoas,"3,600€","3-4 extra holidays per year, 7h workday",3600.0,2000-3999
+29,35-44,mulher,Lisboa,CEO,<15 anos de experiência,11 - 25 pessoas,"2,828€","Health Insurance, Free Public Transport, Car, Phone ",2828.0,2000-3999
+30,35-44,mulher,Lisboa,CFO,<15 anos de experiência,1 - 10 pessoas,"5,800€","Health Insurance, Parental Leave",5800.0,4000-6000
+31,35-44,mulher,Lisboa,Channels Sales Manager,<15 anos de experiência,+ 1000 pessoas,"BRL 25000,00","Health Insurance, Parental Leave, Employee Development Programs,",4623.23,4000-6000
+32,25-34,mulher,Porto,Communication Lead,<15 anos de experiência,+ 1000 pessoas,"2,050€","Gym, Health Insurance, Parental Leave, Equity options, employee discounts, sabbatical leave, extra health voucher ",2050.0,2000-3999
+33,45-54,mulher,Lisboa,Community Manager,> 16 anos de experiência,11 - 25 pessoas,"1,400€","Believe you shall change the questionnaire, my case, I have more than 16 years of professional experience BUT not on current job. Up to 2014 my Monthly gross salary was much higher with extra benefits. Taking conclusion that a 50' yr old woman, with more than 16 yrs experience post college have 1400€ monthly gross salary is not accurate, there are other factors, change carrear, why, voluntary, compulsory...Thanks for the work any case, this subject is particularly dearest.",1400.0,menos de 2000
+34,45-54,mulher,Heidelberg,Computer Scientist,> 16 anos de experiência,+ 1000 pessoas,"5,400€",,5400.0,4000-6000
+35,25-34,homem,Lisboa,Consultant,< 10 anos de experiência,51 - 100 pessoas,"2,000€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership",2000.0,2000-3999
+36,18-24,homem,Lisboa,Consultant,< 5 anos de experiência,+ 1000 pessoas,"1,800€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership
+",1800.0,menos de 2000
+37,18-24,homem,Lisboa,Consultant,< 5 anos de experiência,+ 1000 pessoas,"1,800€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership
+",1800.0,menos de 2000
+38,25-34,mulher,Lisboa,Consultant,< 5 anos de experiência,+ 1000 pessoas,"1,920€",Health insurance,1920.0,menos de 2000
+39,25-34,mulher,Lisboa,Consultant,< 5 anos de experiência,25 - 50 pessoas,"1,975€",Health Insurance,1975.0,menos de 2000
+40,25-34,mulher,Porto ,Consultant Power BI e PowerApps,< 2 anos de experiência,1 - 10 pessoas,"1,000€",,1000.0,menos de 2000
+41,25-34,mulher,Lisboa,Content Manager,< 10 anos de experiência,11 - 25 pessoas,"1,500€","Parental Leave, Employee Development Programs, Stock Options, Free Lunch plus Meal Card ",1500.0,menos de 2000
+42,25-34,mulher,Lisboa,Content Marketing Manager,< 5 anos de experiência,100 - 200 pessoas,"2,800€","Health Insurance, Personal Development Budget, Discounts in stores and gyms, and compound stock options",2800.0,2000-3999
+43,25-34,mulher,Lisboa,Content Specialist,< 5 anos de experiência,+ 200 pessoas,"1,500€","health insurance, employee development, employee discounts  (salary includes meal allowance card)",1500.0,menos de 2000
+44,35-44,mulher,Lisboa,Content/Freelancer ,<15 anos de experiência,1 - 10 pessoas,"2,200€",I'm a freelancer. ,2200.0,2000-3999
+45,45-54,homem,Braga,Continuous improvement projects manager,> 16 anos de experiência,+ 1000 pessoas,"2,580€","Health insurance, mobile phone ",2580.0,2000-3999
+46,25-34,mulher,Porto,COO,< 10 anos de experiência,1 - 10 pessoas,"1,200€",,1200.0,menos de 2000
+47,25-34,mulher,Aveiro,COO ,< 5 anos de experiência,1 - 10 pessoas,"1,000€",Equity,1000.0,menos de 2000
+48,25-34,mulher,Lisboa,CRM Assistant,< 2 anos de experiência,+ 1000 pessoas,"1,800€","health insurance, gym membership",1800.0,menos de 2000
+49,35-44,mulher,Lisboa,Data Analyst,< 2 anos de experiência,100 - 200 pessoas,"1,200€",health insurance,1200.0,menos de 2000
+50,25-34,mulher,Porto,Data Analyst,< 5 anos de experiência,+ 500 pessoas,"1,550€","meal allowance, flex benefits 100€ per month, health insurance, employee discounts, stock options",1550.0,menos de 2000
+51,18-24,homem,Porto,Data Analyst,Sem experiência,25 - 50 pessoas,"1,100€",,1100.0,menos de 2000
+52,35-44,mulher,Porto,Data Analyst,< 10 anos de experiência,+ 200 pessoas,"1,950€",Health Insurance,1950.0,menos de 2000
+53,25-34,homem,Porto,Data Analyst,Sem experiência,100 - 200 pessoas,"1,200€",Health Insurance,1200.0,menos de 2000
+54,25-34,homem,Porto,Data Analyst,< 10 anos de experiência,+ 1000 pessoas,"2,000€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Stock Options and/or Equity.",2000.0,2000-3999
+55,35-44,mulher,Porto,Data Analyst,< 10 anos de experiência,+ 1000 pessoas,"1,900€","Health Insurance, Employee Development Programs, Employee Discounts, Stock Options",1900.0,menos de 2000
+56,25-34,homem,Porto,Data Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,300€",Health Insurance,1300.0,menos de 2000
+57,25-34,mulher,Lisboa,Data and Business Analyst,< 10 anos de experiência,+ 1000 pessoas,"2,583€","Health Insurance, Parental Leave, Meal Tickets, academic education",2583.0,2000-3999
+58,25-34,homem,Lisboa,Data Engineer,< 5 anos de experiência,+ 1000 pessoas,"2,900€","Health Insurance, Parental Leave, Gym Membership, Stock options, possibility to buy gadgets, bonus of 6000€, most of the time work from home, meal allowance (160€ month), training and paid certifications, work computer, mobile phone, paid conferences with trip, and cartão ensino",2900.0,2000-3999
+59,25-34,mulher,Lisboa,Data Engineer,< 5 anos de experiência,+ 200 pessoas,"3,500€","Health insurance, stock options, meal allowance, employee assistance program, gym membership, event tickets, work laptop",3500.0,2000-3999
+60,25-34,mulher,Porto,Data Engineer,< 10 anos de experiência,51 - 100 pessoas,"1,970€",Health insurance,1970.0,menos de 2000
+61,25-34,mulher,Lisboa,Data Science Consultant,< 2 anos de experiência,51 - 100 pessoas,"1,130€","300 euro/monthly for expenses and premium, plus food allowance 140 euro/monthly. Health insurance, cellphone and sim.",1130.0,menos de 2000
+62,25-34,mulher,Porto,Data Science Lead,< 10 anos de experiência,+ 1000 pessoas,"2,150€","Health Insurance, Parental Leave, Employee Discounts, Anual Bonus ~6000, Meal Allowance, Mobile Phone,  Flexible Remote Work Once a Week",2150.0,2000-3999
+63,35-44,homem,Aveiro,Data Scientist,<15 anos de experiência,+ 500 pessoas,"4,000€",,4000.0,4000-6000
+64,18-24,mulher,Lisboa,Data Scientist,< 2 anos de experiência,+ 1000 pessoas,"1,650€","Health Insurance, Meal Card, Pension Fund",1650.0,menos de 2000
+65,25-34,homem,Lisboa,Data Scientist,< 2 anos de experiência,1 - 10 pessoas,"1,100€",,1100.0,menos de 2000
+66,18-24,mulher,Lisboa,Data Scientist,< 2 anos de experiência,11 - 25 pessoas,"1,875€","Food allowance, employee development programs",1875.0,menos de 2000
+67,25-34,homem,Lisboa,Data Scientist,< 5 anos de experiência,+ 1000 pessoas,"2,650€",Health Insurance,2650.0,2000-3999
+68,25-34,homem,Maia,Data Scientist,< 5 anos de experiência,+ 1000 pessoas,"2,100€","Health Insurance, Parental Leave, Phone, Employee Discounts, Annual bonus up to 4500€",2100.0,2000-3999
+69,25-34,mulher,Porto,Data Scientist,< 5 anos de experiência,+ 200 pessoas,"2,900€","Health Insurance, Parental Leave, Employee Development Program, Employee Discounts, Gym Membership",2900.0,2000-3999
+70,25-34,mulher,Porto,Data Scientist,< 5 anos de experiência,100 - 200 pessoas,"2,650€","Health Insurance, Parental Leave, Food and snacks",2650.0,2000-3999
+71,18-24,mulher,Porto,Data Scientist,< 2 anos de experiência,+ 200 pessoas,"2,225€","Health Insurance, Parental Leave, Employee Development Programs, Gym Membership, Stock Options, Snacks and Soup at the office, Remote work option",2225.0,2000-3999
+72,45-54,mulher,porto,Data Scientist,<15 anos de experiência,100 - 200 pessoas,"4,500€",,4500.0,4000-6000
+73,25-34,mulher,Eindhoven ,Data specialist ,< 5 anos de experiência,+ 1000 pessoas,"3,700€","13th month, profit sharing, holiday allowance",3700.0,2000-3999
+74,25-34,mulher,Berlin,Design Lead,< 10 anos de experiência,25 - 50 pessoas,"5,000€","Parental Leave (24 months for one parent, 28 months for the two), Public Transportation Card, some expenses for professional development, employee discounts in certain websites",5000.0,4000-6000
+75,25-34,homem,Lisboa,Designer,<15 anos de experiência,1 - 10 pessoas,"10,000€",None,10000.0,mais de 6000
+76,25-34,homem,Lisboa,Designer,<15 anos de experiência,1 - 10 pessoas,"10,000€",None,10000.0,mais de 6000
+77,35-44,homem,Lisboa,Designer,> 16 anos de experiência,+ 500 pessoas,"2,500€",,2500.0,2000-3999
+78,25-34,mulher,Lisboa,Designer,< 5 anos de experiência,+ 1000 pessoas,"1,550€","Health Insurance, Gym Membership and Employee Discounts",1550.0,menos de 2000
+79,25-34,mulher,Lisboa,Designer,< 10 anos de experiência,25 - 50 pessoas,900€,,900.0,menos de 2000
+80,25-34,mulher,Lisboa,Designer,< 5 anos de experiência,11 - 25 pessoas,"1,200€",Like Health Insurance,1200.0,menos de 2000
+81,25-34,mulher,Lisboa,Developer,< 5 anos de experiência,+ 200 pessoas,"1,500€","Health Insurance, Parental Leave, Employee Development Programs",1500.0,menos de 2000
+82,25-34,mulher,Lisboa,Developer,< 10 anos de experiência,11 - 25 pessoas,"1,980€","Health Insurance, Flex benefits",1980.0,menos de 2000
+83,25-34,mulher,Lisboa,Developer,Sem experiência,+ 1000 pessoas,"1,500€","Health Insurance, Parental Leave, Mobile Phone Plan, Extra Vacation Days, Employee partnerships and discounts, Vacation allowance (Christmas and Summer), Food allowance, Fruit & coffee/tea ",1500.0,menos de 2000
+84,25-34,mulher,Porto,Developer,< 10 anos de experiência,1 - 10 pessoas,900€,seguro de saúde,900.0,menos de 2000
+85,25-34,mulher,Braga,Developer,< 5 anos de experiência,25 - 50 pessoas,"1,400€",Health insurance,1400.0,menos de 2000
+86,25-34,mulher,Cascais,Developer,< 5 anos de experiência,1 - 10 pessoas,850€,No other bennefits,850.0,menos de 2000
+87,25-34,mulher,Fundão,Developer (Trainee),< 2 anos de experiência,+ 200 pessoas,980€,Training,980.0,menos de 2000
+88,25-34,mulher,Braga,Developer and tester engineer,< 5 anos de experiência,+ 1000 pessoas,"1,600€","Health Insurance, Parental Leave, Employee Development Programs",1600.0,menos de 2000
+89,25-34,mulher,London,Digital Account Manager,< 5 anos de experiência,100 - 200 pessoas,"2,720€",,2720.0,2000-3999
+90,25-34,mulher,Lisboa,Digital Artist,< 10 anos de experiência,11 - 25 pessoas,"1,700€",Parental leave. Flexibily in working hours.,1700.0,menos de 2000
+91,25-34,mulher,Lisboa,Digital Data Analyst,< 5 anos de experiência,+ 200 pessoas,"2,400€","Health Insurance, company phone, employee discounts",2400.0,2000-3999
+92,25-34,mulher,Lisboa,Digital Data Analytics,< 10 anos de experiência,+ 200 pessoas,"2,600€","Health Insurance, Employee Development Programs, Employee Discounts, Gym Membership",2600.0,2000-3999
+93,18-24,mulher,Porto,Digital Designer,< 5 anos de experiência,25 - 50 pessoas,"1,100€","Health Insurance, Parental Leave, Bi-annual Products, Self-improvement Budget",1100.0,menos de 2000
+94,35-44,mulher,Lisboa,Digital Marketing & Communications,<15 anos de experiência,51 - 100 pessoas,"1,630€","Health insurance, Phone (with calls and Internet), extra days off",1630.0,menos de 2000
+95,25-34,mulher,Porto,Digital Marketing and eCommerce Manager,< 5 anos de experiência,51 - 100 pessoas,"1,100€","Health Insurance, Lunch pay (5,60€)",1100.0,menos de 2000
+96,25-34,mulher,Marco de Canaveses,Digital Marketing e Ecommerce Assistant,< 5 anos de experiência,51 - 100 pessoas,"1,100€",Health Insurance,1100.0,menos de 2000
+97,18-24,mulher,Lisboa,Digital Marketing Manager,< 5 anos de experiência,+ 1000 pessoas,"2,000€","Health Insurance, Employee Discounts, lunch tickets (11,50EUR)",2000.0,2000-3999
+98,25-34,mulher,Alemanha ,Director,<15 anos de experiência,+ 1000 pessoas,"11,983€","Health insurance, parental leave, employee dev programs, stock options, lunch ",11983.0,mais de 6000
+99,35-44,mulher,Lisboa,Director of Data Science,<15 anos de experiência,+ 500 pessoas,"4,700€","Health Insurance, stock options, parking spot, budget for training, free coffee and fruit, employee discounts",4700.0,4000-6000
+100,35-44,mulher,Amsterdam,Director of User Experience,<15 anos de experiência,51 - 100 pessoas,"10,800€","Lunch, Stock Options",10800.0,mais de 6000
+101,25-34,mulher,Lisboa,Editorial Manager,< 5 anos de experiência,100 - 200 pessoas,"2,445€","Health insurance, Parental Leave, Employee Development Programs, Stock Options",2445.0,2000-3999
+102,35-44,homem,Águeda ,Electrical engineer,< 10 anos de experiência,+ 200 pessoas,"1,250€",,1250.0,menos de 2000
+103,25-34,homem,Porto,Engineer,< 2 anos de experiência,51 - 100 pessoas,"2,000€",,2000.0,2000-3999
+104,25-34,mulher,Lisboa,Enterprise Account Executive,< 10 anos de experiência,+ 200 pessoas,"2,700€",,2700.0,2000-3999
+105,25-34,mulher,Lisboa,Finance Manager,< 10 anos de experiência,51 - 100 pessoas,"3,500€",,3500.0,2000-3999
+106,25-34,mulher,Coimbra,Founder,< 5 anos de experiência,1 - 10 pessoas,957€,,957.0,menos de 2000
+107,25-34,mulher,Aveiro,Freelance Designer,<15 anos de experiência,1 - 10 pessoas,"2,000€",,2000.0,2000-3999
+108,25-34,mulher,Aveiro,Frontend Developer,<15 anos de experiência,+ 200 pessoas,"8,400€","Education budget, no limit paid time off, 3 months parental leave, music subscription, books subscription, mental health days, 2 company wide retreats per year, office setup budget, employee discounts in some brands",8400.0,mais de 6000
+109,25-34,mulher,Lisboa,Frontend Developer,< 2 anos de experiência,51 - 100 pessoas,"1,500€","Health Insurance, training and paid certifications, food stamps/cartao refeição, possibility of working from home permanently, work computer and mobile phone",1500.0,menos de 2000
+110,35-44,homem,Lisboa,Frontend Developer,< 10 anos de experiência,+ 1000 pessoas,"1,600€","Health Insurance, ",1600.0,menos de 2000
+111,35-44,mulher,Lisboa,Frontend Developer,< 5 anos de experiência,100 - 200 pessoas,"1,400€",Health Insurance,1400.0,menos de 2000
+112,35-44,mulher,Lisboa,Frontend Developer,< 5 anos de experiência,100 - 200 pessoas,"1,300€","Free fruit (before isolation), meal allowance (ticket), gym discount and day off on my birthday.",1300.0,menos de 2000
+113,18-24,mulher,Porto,Frontend Developer,< 2 anos de experiência,1 - 10 pessoas,450€,Company car and gas.  ,450.0,menos de 2000
+114,25-34,mulher,Porto,Frontend Developer,< 5 anos de experiência,+ 500 pessoas,"1,700€","Health Insurance, food, pilates, parental leave ",1700.0,menos de 2000
+115,25-34,mulher,Lisboa,Frontend Developer,< 5 anos de experiência,+ 1000 pessoas,"1,808€","200€/month in benefits, including health insurance and discounts in gadgets",1808.0,menos de 2000
+116,25-34,mulher,Porto,Frontend Engineer,< 10 anos de experiência,+ 1000 pessoas,"2,300€","Health Insurance,
+Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options and Equity",2300.0,2000-3999
+117,18-24,mulher,Porto,Frontend Engineer,< 5 anos de experiência,25 - 50 pessoas,"2,500€","Health insurance, life insurance, gym membership, snacks at the office, parking/subway month ticket",2500.0,2000-3999
+118,35-44,homem,Covilhã,Full Stack Developer,< 2 anos de experiência,+ 200 pessoas,970€,,970.0,menos de 2000
+119,25-34,homem,Porto,Full Stack Developer,< 2 anos de experiência,+ 500 pessoas,"1,400€","Health insurance, Food allowance(7,20€/day)",1400.0,menos de 2000
+120,35-44,mulher,Porto,Full Stack Developer,<15 anos de experiência,+ 200 pessoas,"2,150€","Health insurance, lawyer assistance",2150.0,2000-3999
+121,25-34,homem,Porto,Full Stack Developer,< 5 anos de experiência,1 - 10 pessoas,"1,400€",None.,1400.0,menos de 2000
+122,25-34,mulher,Lisboa,Full Stack Developer,< 10 anos de experiência,+ 1000 pessoas,"2,770€","Health Insurance, Extended Maternal Leave, Child Support, Phone Plan, Nutrition and Psychotherapy Appointments, German Classes, Additional Vacations...",2770.0,2000-3999
+123,35-44,homem,Porto,Full Stack Developer ,> 16 anos de experiência,+ 1000 pessoas,"2,200€",Some benefits ,2200.0,2000-3999
+124,25-34,homem,Lisboa,Full Stack Engineer,< 10 anos de experiência,100 - 200 pessoas,"3,136€",Monthly transportation ticket and pension funds,3136.0,2000-3999
+125,25-34,mulher,Porto,Fullstack Engineer,< 5 anos de experiência,11 - 25 pessoas,"2,250€",,2250.0,2000-3999
+126,35-44,mulher,Porto,Functional analyst,< 2 anos de experiência,+ 500 pessoas,900€,"Health insurance, french classes on site, ISTQB exam and preparation classes (free)",900.0,menos de 2000
+127,35-44,mulher,Porto,Functional analyst,< 2 anos de experiência,+ 200 pessoas,"1,100€","Health insurance, free online training courses, part of the salary paid in subsistence allowance",1100.0,menos de 2000
+128,35-44,mulher,Lisboa,Global Head of People & Culture,> 16 anos de experiência,+ 500 pessoas,"6,000€","Seguro de Saúde, SO",6000.0,4000-6000
+129,25-34,mulher,Lisboa,Global Talent Acquisition Manager,<15 anos de experiência,+ 500 pessoas,"3,250€","Health Insurance, Employee Discounts",3250.0,2000-3999
+130,18-24,mulher,Porto,Graphic Designer,< 5 anos de experiência,11 - 25 pessoas,"1,200€",,1200.0,menos de 2000
+131,25-34,mulher,London,Group Product Manager,< 10 anos de experiência,+ 200 pessoas,£8750,,10229.62,mais de 6000
+132,35-44,homem,Braga,Hardware engineer,< 10 anos de experiência,+ 200 pessoas,"2,300€",,2300.0,2000-3999
+133,25-34,homem,Porto,Head Finance,< 10 anos de experiência,51 - 100 pessoas,"1,530€","expense budget, meal allowance (140 € month)",1530.0,menos de 2000
+134,25-34,mulher,Porto,Head of Business Development,< 10 anos de experiência,1 - 10 pessoas,"€1,080",,1080.0,menos de 2000
+135,25-34,mulher,Porto,Head of Business Development,< 10 anos de experiência,1 - 10 pessoas,972€,meal allowance and summer + holiday paid in twelfths,972.0,menos de 2000
+136,35-44,mulher,Lisboa,Head of Commercial Innovation Center,> 16 anos de experiência,+ 1000 pessoas,"7,000€","Health Insurance, Life Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Car (Gas and tooling included), annual bonus, pension fund.",7000.0,mais de 6000
+137,25-34,mulher,Porto,Head of communications,< 5 anos de experiência,1 - 10 pessoas,"2,500€","Health Insurance, free coffee and snaks, Parental Leave, Remote work option, food allowance 140 euro/monthly and Ticket Infância.",2500.0,2000-3999
+138,25-34,homem,Porto,Head of Department,< 10 anos de experiência,1 - 10 pessoas,"5,000€",+ Bonus depending on business raiseed,5000.0,4000-6000
+139,25-34,mulher,Porto,Head of Innovation & Marketing,<15 anos de experiência,+ 500 pessoas,"3,600€","Health Insurance, Parental Leave, Employee Courses",3600.0,2000-3999
+140,25-34,mulher,Braga,Head of Marketing,< 10 anos de experiência,1 - 10 pessoas,"1,550€",*Some Dev's of my team have perks. I don't have,1550.0,menos de 2000
+141,25-34,mulher,Lisboa,Head of Marketing,< 10 anos de experiência,100 - 200 pessoas,"2,600€","Health & Life Insurance, Gym discount, Monthly Transport Ticket, Udemy Account, Phone & Computer, Snacks & Drinks at the office",2600.0,2000-3999
+142,35-44,mulher,Lisboa,head of marketing,< 10 anos de experiência,+ 200 pessoas,"18,000€",,18000.0,mais de 6000
+143,35-44,mulher,Lisboa,Head of Marketing & Communications,> 16 anos de experiência,100 - 200 pessoas,"3,600€","Health Uma grande, employee purchase program ",3600.0,2000-3999
+144,25-34,mulher,Porto,Head of Marketing and Communications,< 5 anos de experiência,25 - 50 pessoas,"2,000€","Health Insurance,",2000.0,2000-3999
+145,25-34,mulher,Porto,Head of Operations,< 10 anos de experiência,11 - 25 pessoas,"1,700€","Health insurance, learning budget, 2 one retreats, unlimited vacations, flexible time, profit distribution and remote work",1700.0,menos de 2000
+146,35-44,mulher,Porto,Head of Operations,<15 anos de experiência,1 - 10 pessoas,"1,750€","Parental leave, discount on gym, equity",1750.0,menos de 2000
+147,35-44,mulher,Porto,Head of Operations,> 16 anos de experiência,11 - 25 pessoas,"1,725€","Equity, parental leave, meal allowance (110€), office food, weekly gatherings for lunch",1725.0,menos de 2000
+148,25-34,mulher,Porto,Head of Operations,< 10 anos de experiência,25 - 50 pessoas,"2,400€",Health insurance,2400.0,2000-3999
+149,25-34,mulher,Lisboa,Head of People,<15 anos de experiência,51 - 100 pessoas,"4,167€","Employee Discounts, Gym Membership, health insurance, bonus, mobile, Parental Leave, extra time off ",4167.0,4000-6000
+150,25-34,mulher,Lisboa,Head of Product,< 10 anos de experiência,+ 200 pessoas,"7,100€",Health Insurance,7100.0,mais de 6000
+151,25-34,mulher,Porto,Head of Research,<15 anos de experiência,1 - 10 pessoas,"1,080€",,1080.0,menos de 2000
+152,18-24,mulher,Lisboa,HR,< 5 anos de experiência,+ 1000 pessoas,"1,182€","Food Allowance, Health Insurance, Life Insurance",1182.0,menos de 2000
+153,25-34,mulher,Lisboa,HR,<15 anos de experiência,+ 200 pessoas,"2,600€","Gym, cleaning, office food, monthly team dinners, Quarterly social events.",2600.0,2000-3999
+154,25-34,mulher,Lisboa,HR,< 5 anos de experiência,100 - 200 pessoas,"1,700€",,1700.0,menos de 2000
+155,25-34,mulher,Lisboa,HR,< 5 anos de experiência,+ 1000 pessoas,"1,300€","Health Insurance, Work remotely whenever ",1300.0,menos de 2000
+156,25-34,mulher,Lisboa,HR,< 5 anos de experiência,51 - 100 pessoas,"1,420€","Health Insurance, Employee Discounts",1420.0,menos de 2000
+157,25-34,mulher,Lisboa,HR ,< 5 anos de experiência,+ 500 pessoas,"1,575€",commissions + health insurance + transportation + meal allowance ,1575.0,menos de 2000
+158,25-34,homem,Porto,HR - Learning and Development,< 10 anos de experiência,+ 200 pessoas,"2,300€","Health Insurance, Parental Leave",2300.0,2000-3999
+159,35-44,mulher,Porto,HR Business Partner,<15 anos de experiência,+ 500 pessoas,"2,350€","Health Insurance, Life Insurance, Employee Discount",2350.0,2000-3999
+160,25-34,mulher,Vila Nova de Gaia,HR Generalist,< 10 anos de experiência,+ 1000 pessoas,"1,400€","Health insurance, yearly wins, employee discounts",1400.0,menos de 2000
+161,25-34,mulher,Lisboa,HR Generalist,< 5 anos de experiência,+ 1000 pessoas,"1,450€","Health Insurance, Stock Options, Annual Bonus, Employee Discounts, Flexible Schedule, Work From Home Flexibility.",1450.0,menos de 2000
+162,25-34,mulher,Braga,HR Manager,< 5 anos de experiência,25 - 50 pessoas,"1,200€","Health insurance, gym, stock options, parental leave",1200.0,menos de 2000
+163,35-44,mulher,Lisboa,HR Manager,< 5 anos de experiência,25 - 50 pessoas,"2,500€","Health Insurance, Employee Discounts, Flexible work time",2500.0,2000-3999
+164,35-44,mulher,Lisboa,HR Manager,<15 anos de experiência,51 - 100 pessoas,"2,199€","Health Insurance, EAP, Parental Leave, Employee Development Programs,  Gym Membership, Stock Options and/or Equity, Flexible working pattern",2199.0,2000-3999
+165,25-34,mulher,Porto,HR Manager,< 10 anos de experiência,25 - 50 pessoas,"1,250€",Health insurance and bonus,1250.0,menos de 2000
+166,25-34,mulher,Coimbra,HR Manager,< 5 anos de experiência,25 - 50 pessoas,"1,697€","Health Insurance, Parental Leave, Employee Discounts, Stock Options and/or Equity.",1697.0,menos de 2000
+167,25-34,mulher,Lisboa,HR Service Delivery Consultant,< 5 anos de experiência,100 - 200 pessoas,"1,667€", Health Insurance,1667.0,menos de 2000
+168,25-34,mulher,Lisboa,HR-People Experience,< 10 anos de experiência,+ 1000 pessoas,"2,190€","1) Fix & Flexible benefits (represents ~5% of the annual gross salary and may include Health Insurance, Tuition Reimbursement, Gym Membership, Social Causes, Pension Plan etc.); 2) Employee Discounts (not related w/ benefits); 3) Benefits foreseen by law with add-ons (extra-days, paid leave, paid volunteer hours)",2190.0,2000-3999
+169,25-34,mulher,Lisboa,Incident Manager,< 10 anos de experiência,+ 1000 pessoas,"1,800€","Health Insurance - extendable to the family, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Meal Allowance",1800.0,menos de 2000
+170,35-44,homem,Porto,Information Security Director,<15 anos de experiência,51 - 100 pessoas,"4,500€","health insurance, remote work, stock options, free food, performance bonus, employee discounts, training budget, parental leave",4500.0,4000-6000
+171,35-44,mulher,Lisboa,Information Security Manager,> 16 anos de experiência,+ 1000 pessoas,"2,850€","Health Insurance, Car, Fuel, Parental Leave, Employee Discounts",2850.0,2000-3999
+172,25-34,mulher,Porto,Innovation Manager,< 2 anos de experiência,51 - 100 pessoas,"1,500€","Health insurance, cellphone, bonus",1500.0,menos de 2000
+173,25-34,mulher,Porto,Innovation Trainee,Sem experiência,51 - 100 pessoas,"1,200€",,1200.0,menos de 2000
+174,45-54,mulher,Porto,Instructional Designer,> 16 anos de experiência,+ 1000 pessoas,"2,150€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Stock Options",2150.0,2000-3999
+175,25-34,mulher,Loulé,Interior designer + design director + management,< 10 anos de experiência,1 - 10 pessoas,"2,000€","Parental leave, employee discounts ",2000.0,2000-3999
+176,25-34,mulher,Porto,International Business Development Manager,< 5 anos de experiência,25 - 50 pessoas,"1,080€",Health insurance and employee development plan,1080.0,menos de 2000
+177,18-24,homem,Lisboa,Internship,< 2 anos de experiência,+ 1000 pessoas,"1,550€","Free internet and TV service, Health Insurance",1550.0,menos de 2000
+178,25-34,homem,Porto,iOS developer,< 5 anos de experiência,11 - 25 pessoas,"2,800€",,2800.0,2000-3999
+179,25-34,mulher,Lisboa,IT administrator,< 5 anos de experiência,100 - 200 pessoas,"2,650€",,2650.0,2000-3999
+180,35-44,mulher,Lisboa,IT analyst,<15 anos de experiência,+ 1000 pessoas,"1,125€","IHT 18% , health insurance, transport allownance, pension plan",1125.0,menos de 2000
+181,35-44,mulher,Porto,IT Business Analyst,< 5 anos de experiência,+ 500 pessoas,"1,600€",,1600.0,menos de 2000
+182,18-24,mulher,Porto,IT Business Analyst ,< 2 anos de experiência,+ 1000 pessoas,"1,600€","Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Phone",1600.0,menos de 2000
+183,25-34,mulher,Porto,IT Business Partner,< 2 anos de experiência,+ 1000 pessoas,"1,290€","Health insurance, free access to company products, gym membership discounts",1290.0,menos de 2000
+184,25-34,mulher,Lisboa,IT Content Reviewer,< 10 anos de experiência,+ 1000 pessoas,"1,300€","Health Insurance, Meal card",1300.0,menos de 2000
+185,35-44,mulher,Lisboa,IT PMO,> 16 anos de experiência,+ 1000 pessoas,"28,000€","Health insurance, gym membership, retirement fund",28000.0,mais de 6000
+186,25-34,mulher,porto,IT Project Manager,< 5 anos de experiência,51 - 100 pessoas,"1,221€","health insurance, flexible schedule, yearly bonus (around a month salary)",1221.0,menos de 2000
+187,25-34,mulher,Lisboa,IT Recruiter,< 5 anos de experiência,11 - 25 pessoas,"1,400€","Health insurance, ",1400.0,menos de 2000
+188,25-34,mulher,Lisboa,IT Recruiter,< 2 anos de experiência,+ 500 pessoas,"1,000€","Health Insurance, Life Insurance, Meal allowance, employee discounts",1000.0,menos de 2000
+189,25-34,mulher,Porto,IT Recruiter ,< 5 anos de experiência,+ 1000 pessoas,"1,500€","Meal allowance, health insurance, annual bonus, training plan ",1500.0,menos de 2000
+190,25-34,mulher,Porto ,IT Recruiter ,< 5 anos de experiência,+ 1000 pessoas,"1,600€",Monthly Base + Flex Salary + Bónus + Health Insurance + Life Insurance + Cellphone and Monthly Plan + Meal Allowance + Training Plan ,1600.0,menos de 2000
+191,18-24,mulher,Lisboa,IT Recruiter & Employer Branding ,< 5 anos de experiência,+ 200 pessoas,"1,100€","Health Insurance, Life Ensurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Mobile Phone",1100.0,menos de 2000
+192,25-34,mulher,Lisboa,IT Service Analyst,< 5 anos de experiência,100 - 200 pessoas,"1,800€","Health and Life Insurance (extended to family), Parental Leave, Employee Discounts, Mobile phone with internet and calls plan, Meal Card (7,63/Day), Transport Allowance.",1800.0,menos de 2000
+193,25-34,mulher,Porto ,IT Service Manager - Finance,<15 anos de experiência,+ 1000 pessoas,"3,570€","health insurance,entitle to bonus",3570.0,2000-3999
+194,35-44,homem,Porto,IT Tech Support,> 16 anos de experiência,100 - 200 pessoas,"1,630€",Health Insurance ,1630.0,menos de 2000
+195,35-44,homem,Porto,IT Tech Support,> 16 anos de experiência,100 - 200 pessoas,"1,630€",Health Insurance ,1630.0,menos de 2000
+196,35-44,homem,Porto,IT Tech Support,> 16 anos de experiência,100 - 200 pessoas,"1,630€",Health Insurance ,1630.0,menos de 2000
+197,25-34,mulher,Lisboa,Java Developer,< 2 anos de experiência,100 - 200 pessoas,"1,150€","Health Insurance, employee discounts, gym membership (discount)",1150.0,menos de 2000
+198,25-34,mulher,Lisboa,Junior Consultant,< 2 anos de experiência,+ 1000 pessoas,"1,625€","Health and Life Insurance, Employee Discounts and Development Programs",1625.0,menos de 2000
+199,18-24,homem,Fundão ,Junior consultant ,< 2 anos de experiência,+ 1000 pessoas,"1,015€","Health insurance, gym discount, free formations (like French), meal allowance",1015.0,menos de 2000
+200,35-44,mulher,Porto,Junior data scientist,< 2 anos de experiência,100 - 200 pessoas,"2,500€","Unlimited PTO as long as goals are achieved. Employee discounts, parental leave, unlimited online courses for personal and career development, 2 trips to USA all covered per year.",2500.0,2000-3999
+201,25-34,mulher,Braga,Junior Developer,Sem experiência,51 - 100 pessoas,719€,Employee Discounts,719.0,menos de 2000
+202,18-24,mulher,Lisboa,Junior Developer,< 2 anos de experiência,25 - 50 pessoas,800€,Health insurance,800.0,menos de 2000
+203,25-34,mulher,Lisboa,Junior Developer,< 2 anos de experiência,+ 1000 pessoas,"1,100€","Health Insurance, Technology Certifications, Employee Discounts",1100.0,menos de 2000
+204,35-44,mulher,Porto,Junior Developer,Sem experiência,+ 500 pessoas,"1168,83€","Health Insurace extended to family; extra 136,36€ that can be added to monthly gross salary (with tax imputation) or used as net value in  some optional things (children daycare etc...); employee discount in severall places they have protocol with; 2 day/week remote work option; Training and carreer development programme; free fruit and cofee ",1168.83,menos de 2000
+205,25-34,mulher,Aveiro,Junior Digital Marketeer,< 5 anos de experiência,11 - 25 pessoas,700€,,700.0,menos de 2000
+206,18-24,mulher,Lisboa,Junior HR Business Partner,< 5 anos de experiência,+ 1000 pessoas,"1,325€",Health Insurance,1325.0,menos de 2000
+207,35-44,mulher,Lisboa,Junior Network Engineer,< 5 anos de experiência,51 - 100 pessoas,"1,500€","Health & Life Insurance, Employee Development Programs, Employee Discounts, Mobile Phone",1500.0,menos de 2000
+208,25-34,mulher,Porto,Junior Programmer,< 2 anos de experiência,100 - 200 pessoas,"1,020€","Like Health Insurance, Remote work, Parental Leave",1020.0,menos de 2000
+209,25-34,mulher,Braga,Junior Quality Assurance Engineer,< 10 anos de experiência,100 - 200 pessoas,"1,624€","health insurance, paid lunches and snacks (before isolation), gym discount, city center parking discount, 25 total holidays and bridge holidays, 14 month salary",1624.0,menos de 2000
+210,25-34,mulher,Lisboa,Junior Software Developer,< 2 anos de experiência,+ 500 pessoas,919€,Health Insurance,919.0,menos de 2000
+211,18-24,mulher,Porto,Junior software developer,< 2 anos de experiência,+ 1000 pessoas,"1,500€","Health Insurance, Parental Leave, Employee Development Programs,Employee Discounts, RSUs, Support tickets (health, education, etc)",1500.0,menos de 2000
+212,35-44,mulher,Lisboa,L&D Manager,<15 anos de experiência,+ 500 pessoas,"2,000€",Health Insurance,2000.0,2000-3999
+213,25-34,mulher,Lisboa,Lead Data Science Researcher,< 5 anos de experiência,+ 200 pessoas,"2,400€","Health Insurance, Parental Leave, Training Budget, Yearly bonus based on performance",2400.0,2000-3999
+214,35-44,mulher,Lisboa,Lead Data Scientist,<15 anos de experiência,+ 1000 pessoas,"4,000€","Health Insurance, TV+Internet+Mobile Phone, Bonus, Employee discounts",4000.0,4000-6000
+215,25-34,mulher,Cologne (Germany),Machine Learning Engineer,< 5 anos de experiência,1 - 10 pessoas,"3,500€",Unlimited vacations,3500.0,2000-3999
+216,25-34,mulher,Porto,Machine Learning Engineer,< 5 anos de experiência,25 - 50 pessoas,"1,400€","health insurance, flexible working hours, food",1400.0,menos de 2000
+217,25-34,mulher,Porto,Manager,< 10 anos de experiência,25 - 50 pessoas,"2,250€","Health insurance, parental leave, tuition reimbursement ",2250.0,2000-3999
+218,35-44,mulher,Porto,Marketing & Communication Manager,<15 anos de experiência,+ 500 pessoas,"1,600€","Health Insurance, Parental Leave, Marriage Leave, Discounts in partners, 500€ for each child born, online gym classes, English lessons, annual bonus (evaluation), mobile phone, remote work, free fruit, coffee and water at the office, game room, garage place",1600.0,menos de 2000
+219,35-44,mulher,Lisboa,Marketing & Communication Senior Manager,< 10 anos de experiência,25 - 50 pessoas,"1,800€",health insurance,1800.0,menos de 2000
+220,25-34,mulher,Lisboa,Marketing Analyst ,< 2 anos de experiência,+ 1000 pessoas,"1,500€","Health Insurance, Food Allowance (7.20/day), Employee discounts, free Smartphone and Mobile Plan, Employee Dev Program",1500.0,menos de 2000
+221,35-44,mulher,Porto ,Marketing and Communication Specialist,< 10 anos de experiência,+ 200 pessoas,"1,800€","Health insurance, fruit, breakfast, massages, birthday vacation. ",1800.0,menos de 2000
+222,25-34,homem,Lisboa,Marketing Assistant,< 2 anos de experiência,1 - 10 pessoas,800€,,800.0,menos de 2000
+223,25-34,mulher,Lisboa,Marketing Designer,< 5 anos de experiência,+ 200 pessoas,"1,250€","Discounts on gym membership and restaurants, language classes, health insurance, parental leave, marriage leave",1250.0,menos de 2000
+224,35-44,mulher,Lisboa,Marketing expert,<15 anos de experiência,+ 500 pessoas,"1,900€","Like Health Insurance, Employee Development Programs, Employee Discounts",1900.0,menos de 2000
+225,18-24,mulher,Lisboa,Marketing Specialist,< 2 anos de experiência,11 - 25 pessoas,"1,200€",Like Health Insurance,1200.0,menos de 2000
+226,25-34,mulher,Porto,Marketing Visual Designer,< 10 anos de experiência,+ 200 pessoas,"1,600€","meal ticket, language classes.",1600.0,menos de 2000
+227,25-34,homem,Lisboa,Microsoft BI consultant senior,< 5 anos de experiência,+ 1000 pessoas,"2,200€",,2200.0,2000-3999
+228,35-44,mulher,Porto,Mobile QA engineer,< 5 anos de experiência,+ 200 pessoas,"1,571€","Health insurance, training",1571.0,menos de 2000
+229,25-34,mulher,Porto,Multimedia Trainee,< 2 anos de experiência,11 - 25 pessoas,950€,,950.0,menos de 2000
+230,35-44,mulher,Porto,Office Manager,> 16 anos de experiência,11 - 25 pessoas,"1,300€",,1300.0,menos de 2000
+231,35-44,mulher,Porto,Office Manager,<15 anos de experiência,11 - 25 pessoas,"1,350€",Health insurance,1350.0,menos de 2000
+232,25-34,mulher,Lisboa,Operation manager ,< 5 anos de experiência,1 - 10 pessoas,"1,300€",,1300.0,menos de 2000
+233,25-34,mulher,Lisboa,Operation manager ,< 5 anos de experiência,1 - 10 pessoas,"1,300€",,1300.0,menos de 2000
+234,25-34,homem,Lisboa,Operations Engineer,< 5 anos de experiência,25 - 50 pessoas,800€,Meal tickets,800.0,menos de 2000
+235,18-24,mulher,Lisboa,Operations Manager,< 2 anos de experiência,1 - 10 pessoas,"1,500€","Health insurance, employee dev. programmes, discounts, training, books, flexible schedule",1500.0,menos de 2000
+236,25-34,mulher,Lisboa,Operations Manager,< 5 anos de experiência,11 - 25 pessoas,"2.000,00€","Health Insurance, Parental Leave, Training Program",2000.0,2000-3999
+237,25-34,mulher,Madrid,Operations Manager,< 10 anos de experiência,+ 1000 pessoas,"4,463€","Health Insurance, meals and snacks in office, monthly allowance to spend on company business + employee discount,  cell phone allowance, wellbeing allowance (for gym or related spending), yearly education allowance, 30 paid time off days + 2 personal days,  stock options",4463.0,4000-6000
+238,25-34,mulher,Porto,Operations Manager,< 5 anos de experiência,+ 200 pessoas,"1,850€","health insurance, meal allowances, parental leave, discount in gym, day off on my BD",1850.0,menos de 2000
+239,18-24,mulher,Porto,Operations Manager,< 5 anos de experiência,51 - 100 pessoas,"2,172€",Health Insurance ,2172.0,2000-3999
+240,25-34,mulher,Lisboa,Optical engineer,< 2 anos de experiência,+ 1000 pessoas,"2,571€","Health insurance, Stock options, Retirement plan, Annual bonus",2571.0,2000-3999
+241,25-34,homem,Lisboa,Outsystems Developer,< 5 anos de experiência,1 - 10 pessoas,"1,400€",,1400.0,menos de 2000
+242,18-24,mulher,Lisboa,Outsystems Developer,< 2 anos de experiência,+ 1000 pessoas,"1,300€",Health Insurance,1300.0,menos de 2000
+243,18-24,homem,Viseu,OutSystems Developer,< 5 anos de experiência,1 - 10 pessoas,"1,000€",,1000.0,menos de 2000
+244,25-34,mulher,Lisboa,Payroll Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,300€","Health Insurance, Transport Allowance, Employee Discounts",1300.0,menos de 2000
+245,25-34,homem,Ovar,PCB layouter,< 5 anos de experiência,+ 500 pessoas,"2,400€","Health insurance, employee discounts, flex-time",2400.0,2000-3999
+246,18-24,mulher,Lisboa,Performance Marketing Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,750€","Health insurance, discount in transportation ",1750.0,menos de 2000
+247,25-34,mulher,Coimbra,PhD Student,Sem experiência,+ 1000 pessoas,"1,064€","Parental Leave, Sick leave",1064.0,menos de 2000
+248,35-44,mulher,Lisboa,PR Consultant,< 2 anos de experiência,25 - 50 pessoas,"2126,83","Cartão Lisbon Viva, Cartão CP",2126.83,2000-3999
+249,35-44,mulher,Lisboa,Procurement Manager,<15 anos de experiência,+ 1000 pessoas,"3,100€","Health Insurance, Employee Discounts",3100.0,2000-3999
+250,25-34,mulher,Porto,Product Design Lead,<15 anos de experiência,+ 500 pessoas,"2,950€","Stock options, Paid transport expenses, health insurance",2950.0,2000-3999
+251,25-34,mulher,Coimbra,Product Designer,< 5 anos de experiência,1 - 10 pessoas,"1,043€",Company Library and budget to attend conferences and workshops,1043.0,menos de 2000
+252,25-34,mulher,Lisboa,Product Designer,< 10 anos de experiência,+ 1000 pessoas,"4,368€","Health Insurance & Stock Options & Mobile Phone; Optional: Employee discounts, gym membership, parental leave, food, coffee, car & gas",4368.0,4000-6000
+253,25-34,mulher,Lisboa,Product Designer,< 10 anos de experiência,+ 1000 pessoas,"1,893€","Cellphone, computer, health insurance, life insurance, parental leave, public transportation paid, gym membership, employee discounts, work related expenses paid, employee development programs, remote option",1893.0,menos de 2000
+254,35-44,mulher,Lisboa,Product Designer,<15 anos de experiência,+ 500 pessoas,"2,400€","health insurance, private pension (retirement options), learning budget, discount on gym, 2 extra months maternity leave, extra day off depending years in company",2400.0,2000-3999
+255,35-44,homem,Lisboa,Product Designer,< 5 anos de experiência,+ 1000 pessoas,"1,750€","Health insurance, meal subsidy, vacation allowance (Christmas and Summer)",1750.0,menos de 2000
+256,25-34,mulher,Porto,Product Designer,< 10 anos de experiência,+ 500 pessoas,"2,900€","Health Insurance, Parental Leave, Mobile Phone Plan, Extra Vacation Days, and some paternship with gyms and other services",2900.0,2000-3999
+257,25-34,mulher,Porto,Product Designer,< 10 anos de experiência,25 - 50 pessoas,"3,100€","Health Insurance, Parental Leave, Equity/Stocks, Training/Workshop Budget, Conferences Budget, Doctor at the office",3100.0,2000-3999
+258,25-34,mulher,Porto,Product Designer,< 2 anos de experiência,+ 1000 pessoas,"1,800€",Health Insurance,1800.0,menos de 2000
+259,18-24,mulher,Porto,Product Designer,< 5 anos de experiência,11 - 25 pessoas,"1,600€",,1600.0,menos de 2000
+260,25-34,mulher,Berlin,Product Designer,< 5 anos de experiência,+ 1000 pessoas,"5,480€","Stock Options, Employee Discount.",5480.0,4000-6000
+261,25-34,mulher,France/ Fully distributed,Product designer,< 10 anos de experiência,1 - 10 pessoas,"5,000$",,4746.3,4000-6000
+262,25-34,mulher,Barcelona,Product Manager,< 10 anos de experiência,+ 200 pessoas,"4,150€","Like Health Insurance, Employee Development Programs, Employee Discounts, Equity, Free Lunches",4150.0,4000-6000
+263,25-34,mulher,Dublin,Product Manager,< 10 anos de experiência,+ 500 pessoas,"6,833€","Unlimited holidays, free food (breakfast, lunch, dinner), gym allowance, transport allowance, health insurance",6833.0,mais de 6000
+264,25-34,mulher,Lisboa,Product Manager,< 10 anos de experiência,+ 200 pessoas,"4,286€","Health care, Discounts at partners (pharmacy, restaurants, gym, etc), food at the office, access to free leisure activities",4286.0,4000-6000
+265,25-34,mulher,Lisboa,Product Manager,< 2 anos de experiência,+ 200 pessoas,"1,857€",,1857.0,menos de 2000
+266,25-34,mulher,Lisboa,Product Manager,< 10 anos de experiência,+ 500 pessoas,"3,500€","Health insurance, training budget, parental leave, snacks at the office",3500.0,2000-3999
+267,35-44,homem,Lisboa,Product Manager,<15 anos de experiência,+ 1000 pessoas,"3,800€","Company car, Gas Allowance, Health Insurance, Office Perks",3800.0,2000-3999
+268,25-34,mulher,Lisboa,Product Manager,<15 anos de experiência,+ 1000 pessoas,"1,700€","Health Insurance, Company car & gas and Quarterly Bonus ",1700.0,menos de 2000
+269,25-34,mulher,London,Product Manager,< 10 anos de experiência,25 - 50 pessoas,"£ 5,500","Health Insurance, Parental Leave, Employee Development Budget, Stock Options",6430.08,mais de 6000
+270,25-34,mulher,Madrid,Product Manager,< 10 anos de experiência,+ 1000 pessoas,"3,541€","Parental leave, employee discounts",3541.0,2000-3999
+271,25-34,mulher,Porto,Product Manager,< 2 anos de experiência,+ 1000 pessoas,"2,400€","Employee discounts, Stock options, Health insurance, free transportation, bonus to alocate on some expenses (like Gym, education, Medical Care, etc.)",2400.0,2000-3999
+272,25-34,mulher,Lisboa,Product Manager,< 2 anos de experiência,+ 500 pessoas,"1,650€","health insurance, employee discounts, gym partnerships, stock equity, parental leave, free cosmetic products",1650.0,menos de 2000
+273,35-44,mulher,Porto,Product Manager,< 10 anos de experiência,+ 1000 pessoas,"3,150€","health insurance, stock options, employee discounts, extra days-off ",3150.0,2000-3999
+274,35-44,mulher,Lisboa,Product Manager ,<15 anos de experiência,+ 1000 pessoas,"4,000€"," Health Insurance, Employee Development Programs,  Employee Discounts, Gym Membership, Stock Options ",4000.0,4000-6000
+275,35-44,mulher,Lisboa,Product Manager ,< 10 anos de experiência,+ 500 pessoas,"3,530€",Health insurance,3530.0,2000-3999
+276,25-34,mulher,Porto,Product Manager (associate),< 2 anos de experiência,+ 1000 pessoas,"1,500€","Health Insurance, Equity, Bonus, Benefits, Parental leave, Extra days off, Employee discounts",1500.0,menos de 2000
+277,35-44,mulher,Braga,Product Owner,> 16 anos de experiência,25 - 50 pessoas,"2,500€","Health Insurance, meals (in addition to the lunch allowance), snacks, more 3 days vacation, mobile budget",2500.0,2000-3999
+278,35-44,homem,Lisboa,Product Owner,< 10 anos de experiência,+ 1000 pessoas,"3,500€",,3500.0,2000-3999
+279,25-34,mulher,Lisboa,Product Owner,< 5 anos de experiência,+ 1000 pessoas,"2,300€",Health Insurance,2300.0,2000-3999
+280,18-24,mulher,Porto,Product Owner,< 5 anos de experiência,51 - 100 pessoas,"2,150€","Health insurance, +2 vacation days",2150.0,2000-3999
+281,25-34,mulher,Porto,Product Owner,< 5 anos de experiência,+ 500 pessoas,"1,750€","Health insurance, annual bonus, food (breakfast, snacks), discount partnerships, food allowance (7.23€ p/day) ",1750.0,menos de 2000
+282,25-34,mulher,Lisboa,Product Owner ,<15 anos de experiência,+ 1000 pessoas,"3,813€","Health Insurance, Car, Fuel Allowance (60€/month), Communications allowance (40€/month), Stock Options, Training and Food Allowance - 7.63€/day",3813.0,2000-3999
+283,25-34,mulher,New York,Product Strategy Lead,< 10 anos de experiência,+ 1000 pessoas,"$13,750","Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement, Employee Discounts, Gym Membership, Stock Options and Equity ",13050.81,mais de 6000
+284,35-44,homem,Lisboa,Program Manager,<15 anos de experiência,+ 1000 pessoas,"3,850€",,3850.0,2000-3999
+285,25-34,mulher,Porto,Program Manager,< 5 anos de experiência,11 - 25 pessoas,"1,220€",Health insurance,1220.0,menos de 2000
+286,18-24,homem,Lisboa,Project Engineer,< 2 anos de experiência,+ 200 pessoas,"2,800€",Health Insurance,2800.0,2000-3999
+287,25-34,mulher,Lisboa,Project Manager,< 5 anos de experiência,11 - 25 pessoas,"1,350€","Lunch, health insurance, flexible schedule, non-fixed leave without pay ",1350.0,menos de 2000
+288,25-34,mulher,Lisboa,Project Manager,< 5 anos de experiência,11 - 25 pessoas,"1,300€","health insurance, meal allowance, bonus",1300.0,menos de 2000
+289,25-34,mulher,Lisboa,Project Manager,< 5 anos de experiência,+ 200 pessoas,"1,950€","Health Insurance, Employee Discounts (Gym, Hotels etc)",1950.0,menos de 2000
+290,18-24,mulher,London,Project Manager,< 2 anos de experiência,+ 1000 pessoas,"2,500€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options",2500.0,2000-3999
+291,25-34,mulher,Porto,Project Manager,<15 anos de experiência,25 - 50 pessoas,"2,600€",Health insurance,2600.0,2000-3999
+292,25-34,mulher,Porto,Project Manager,< 10 anos de experiência,51 - 100 pessoas,"4,000€",,4000.0,4000-6000
+293,25-34,mulher,Porto,Project Manager,< 5 anos de experiência,25 - 50 pessoas,"2,100€",Car and bonus,2100.0,2000-3999
+294,25-34,mulher,Lisboa,Project Manager,< 5 anos de experiência,+ 1000 pessoas,"2,800€","Health Insurance, Parental Leave",2800.0,2000-3999
+295,25-34,mulher,Porto,Project Manager,< 10 anos de experiência,25 - 50 pessoas,"3,100€","Health Insurance, Employee Development Programs",3100.0,2000-3999
+296,25-34,mulher,Porto,Project Manager,< 5 anos de experiência,51 - 100 pessoas,"1,650€","3 extra vacation days, Health insurance plan, Mobile phone plan, Flexible schedule, Yearly bonus (around a month salary).",1650.0,menos de 2000
+297,25-34,mulher,Lisboa,Project Manager,<15 anos de experiência,+ 1000 pessoas,"2,850€","Paid internet, tv and phone, health insurrance",2850.0,2000-3999
+298,45-54,mulher,Porto,Projet Manager,> 16 anos de experiência,25 - 50 pessoas,"1,517€",215€ and phone,1517.0,menos de 2000
+299,35-44,mulher,Porto,Purchasing Manager,< 10 anos de experiência,+ 1000 pessoas,"2,370€",Health insurance,2370.0,2000-3999
+300,35-44,mulher,Braga,Purchasing Project Management ,<15 anos de experiência,+ 1000 pessoas,"1,640€","Health Insurance, Employee Discounts. Parental Leave as a right by law",1640.0,menos de 2000
+301,18-24,mulher,Porto,QA Analyst,Sem experiência,+ 200 pessoas,"1,600€","Health Insurance, Mobile Allowance",1600.0,menos de 2000
+302,25-34,homem,Lisboa,QA Engineer,< 10 anos de experiência,+ 200 pessoas,"1,550€","Health Insurance, Employee Development Programs, Receive Travel Expenses",1550.0,menos de 2000
+303,25-34,mulher,Porto,QA Engineer,< 2 anos de experiência,25 - 50 pessoas,600€,Health Insurance,600.0,menos de 2000
+304,25-34,mulher,Lisboa,QA Engineer,< 5 anos de experiência,+ 200 pessoas,"2,953€","Health insurance, parental leave, employee development programs, public transportation monthly pass, employee discounts, 3 additional vacation days after a year",2953.0,2000-3999
+305,35-44,mulher,Aveiro,QA Manager,< 10 anos de experiência,+ 500 pessoas,"3,100€","Health Insurance, Employee Development Programs, Stock options, public transports fee",3100.0,2000-3999
+306,35-44,mulher,Lisboa,"QA Manager, Software Developer",<15 anos de experiência,51 - 100 pessoas,"1,900€","Health Insurance, Parental Leave, Pharmacy discounts, restaurant discount",1900.0,menos de 2000
+307,25-34,mulher,Lisboa,QA tester,< 2 anos de experiência,+ 200 pessoas,"1,100€","Employee Discounts, Gym Membership, premiums by performance",1100.0,menos de 2000
+308,25-34,mulher,Porto,Quality Assurance Lead,< 5 anos de experiência,25 - 50 pessoas,"3,100€","Health Insurance to all family, meal card, remote work",3100.0,2000-3999
+309,25-34,mulher,Porto,Quality planner,< 2 anos de experiência,+ 500 pessoas,"1,600€","Doctor on site, German and English teachers on site and development programs",1600.0,menos de 2000
+310,25-34,mulher,Coimbra,Recruitment lead,< 10 anos de experiência,100 - 200 pessoas,"3,150€",Health Insurance.,3150.0,2000-3999
+311,25-34,mulher,Lisboa,Research Scientist,< 5 anos de experiência,+ 1000 pessoas,"2,400€",,2400.0,2000-3999
+312,35-44,mulher,Carnaxide,Responsável de Recrutamento e Comunicação Interna,< 10 anos de experiência,+ 500 pessoas,"1,500€",Health Insurance,1500.0,menos de 2000
+313,25-34,mulher,Lisboa,Reverse Logistics Manager,< 2 anos de experiência,+ 500 pessoas,"1,020€","Health Insurance, Gym Membership",1020.0,menos de 2000
+314,25-34,mulher,Porto,Rockstart Developer,< 5 anos de experiência,+ 500 pessoas,"1,300€","Health Insurance, employee development program",1300.0,menos de 2000
+315,25-34,mulher,Lisboa,Sales ,< 5 anos de experiência,100 - 200 pessoas,"4,400€","Health insurance, parental leave, employee development programs, stock options, employee discounts, breakfast and lunch for free and snacks, massages, personal workspace allowance",4400.0,4000-6000
+316,25-34,mulher,Porto ,Sales and Marketing assistant,< 10 anos de experiência,+ 1000 pessoas,"1,705€","health insurance, meal allowance, unlimited home office, development programs,",1705.0,menos de 2000
+317,35-44,mulher,Braga,Sales Manager,<15 anos de experiência,11 - 25 pessoas,"1,100€","
+Flexible schedule, free birthday, snacks, sickness allowance supplement.",1100.0,menos de 2000
+318,18-24,homem,Lisboa,Salesforce Developer,< 2 anos de experiência,+ 1000 pessoas,"1,200€","Health Insurance, Employee Development Programs, Phone, Employee Discounts",1200.0,menos de 2000
+319,25-34,mulher,Lisboa,Salesforce Developer,< 5 anos de experiência,100 - 200 pessoas,"1,650€","Health Insurance, Plan Mobile Phone, Meal card",1650.0,menos de 2000
+320,18-24,homem,Lisboa,Salesforce developer,< 2 anos de experiência,+ 1000 pessoas,"1,200€","Health Insurance, Employee Development Programs",1200.0,menos de 2000
+321,25-34,mulher,Lisboa,Salesforce Senior Consultant / Business Analyst,< 5 anos de experiência,+ 200 pessoas,"2,070€","Cost help (3300 per year, to be divided as I want on a monthly basis); health insurance (for which I pay ~90eur/year); 100€ voucher with Vodafone for buying a phone upon my entrance; mobile phone package",2070.0,2000-3999
+322,25-34,mulher,Odivelas,SAP ABAP Developer,< 10 anos de experiência,51 - 100 pessoas,"2,700€","Health Insurance, Free Parking",2700.0,2000-3999
+323,25-34,mulher,Lisboa,SAP Consultant,< 10 anos de experiência,100 - 200 pessoas,"2,500€",,2500.0,2000-3999
+324,25-34,mulher,Lisboa,SAP Development consultant,< 5 anos de experiência,+ 1000 pessoas,"1,500€","Health insurance, Parental Leave, Gym membership discounts, Stock Options",1500.0,menos de 2000
+325,18-24,homem,Lisboa,SAP SuccessFactors Consultant,< 2 anos de experiência,100 - 200 pessoas,"1,200€",Life issurance,1200.0,menos de 2000
+326,18-24,mulher,Lisboa,Scrum Master,< 5 anos de experiência,100 - 200 pessoas,"2,100€","health insurance, life insurance, public transports, renting car",2100.0,2000-3999
+327,35-44,mulher,Faro,Senior Business Administrator ,> 16 anos de experiência,100 - 200 pessoas,"1,750€",Health Insurance; Employee Development Programs; Tuition Reimbursement; 4 day week,1750.0,menos de 2000
+328,25-34,mulher,Lisboa,Senior Consultant,< 5 anos de experiência,+ 1000 pessoas,"1,790€","Health Insurance, Parental Leave, Employee Discounts, Food Allowance, Subsistence Allowance and Travel Costs",1790.0,menos de 2000
+329,35-44,homem,Lisboa,Senior Consultant,<15 anos de experiência,+ 1000 pessoas,"1,800€",Health Insurance,1800.0,menos de 2000
+330,35-44,mulher,Lisboa,Senior consultant,< 10 anos de experiência,+ 1000 pessoas,"2,450€","Health insurance, Car allowance.",2450.0,2000-3999
+331,25-34,homem,Porto,Senior Consultant,< 10 anos de experiência,+ 1000 pessoas,"2,875€",,2875.0,2000-3999
+332,35-44,mulher,New York,Senior Counsel ,<15 anos de experiência,+ 1000 pessoas,"5,500€","Health insurance, life insurance ",5500.0,4000-6000
+333,25-34,mulher,Lisboa,Senior Data Scientist,< 5 anos de experiência,+ 1000 pessoas,"3,300€","Health Insurance, Bonus, Stock Options, Food Allowance",3300.0,2000-3999
+334,25-34,mulher,Porto,Senior Designer,< 5 anos de experiência,+ 200 pessoas,"2,500€","Bonus, Health Insurance, Parental Leave, Training, Massages, Pilates, etc",2500.0,2000-3999
+335,35-44,mulher,Lisboa,Senior Designer,> 16 anos de experiência,11 - 25 pessoas,"1,350€",Parental Leave,1350.0,menos de 2000
+336,35-44,homem,Lisboa,Senior Engineering Manager,<15 anos de experiência,+ 1000 pessoas,"4,445€",Health Insurance and Stock Options.,4445.0,4000-6000
+337,25-34,mulher,Porto,Senior Financial Analyst,< 5 anos de experiência,25 - 50 pessoas,"2,000€","Health Insurance, flex benefits (Netflix, Spotify)",2000.0,2000-3999
+338,25-34,mulher,Porto,Senior Frontend Engineer,< 5 anos de experiência,51 - 100 pessoas,"9,500€","Health Insurance, Parental Leave, Profit sharing, Free books and Kindle, Home office setup, Coworking/Coffee shop reimbursement , Sabbaticals ",9500.0,mais de 6000
+339,25-34,mulher,Lisboa,Senior IRM specialist,< 10 anos de experiência,+ 1000 pessoas,"2,140€",,2140.0,2000-3999
+340,25-34,mulher,Braga,Senior Manager,< 10 anos de experiência,+ 1000 pessoas,"2,600€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Mobile Office, Career Path",2600.0,2000-3999
+341,25-34,homem,Lisboa,Senior Manager,<15 anos de experiência,+ 1000 pessoas,"3,200€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options",3200.0,2000-3999
+342,25-34,mulher,London,Senior Manager,< 10 anos de experiência,+1000 pessoas,"8,333€","Health insurance, life insurance, parental leave, training, stocks, discounts, extra holidays, extra paid leave",8333.0,mais de 6000
+343,35-44,mulher,Lisboa,Senior Marketing executive,> 16 anos de experiência,+ 500 pessoas,"1,500€",Health and life Insurance,1500.0,menos de 2000
+344,25-34,mulher,Lisboa,Senior Product Designer,< 10 anos de experiência,+ 1000 pessoas,"3,200€","Meal allowance, transports allowance, health insurance, annual bonus.",3200.0,2000-3999
+345,25-34,mulher,Lisboa,Senior Product Designer,< 10 anos de experiência,+ 1000 pessoas,"2,570€","Meal allowance, transports allowance, health insurance, annual bonus.",2570.0,2000-3999
+346,25-34,mulher,Porto,Senior Product Manager,< 10 anos de experiência,+ 1000 pessoas,"2,500€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership, Stock Options and/or Equity.",2500.0,2000-3999
+347,25-34,mulher,Lisboa,Senior Software Engineer,< 10 anos de experiência,+ 1000 pessoas,"2,600€","Health insurance, stock options, bonus",2600.0,2000-3999
+348,25-34,mulher,Lisboa,Senior Software Engineer,< 5 anos de experiência,+ 500 pessoas,"2,200€","Health Insurance, Stock Options 140€ (meal allowance)",2200.0,2000-3999
+349,45-54,homem,Lisboa,Senior System Analyst,> 16 anos de experiência,+ 200 pessoas,"2,840€","Employee Development Programs, Employee Discounts",2840.0,2000-3999
+350,25-34,homem,Lisboa,Senior System Developer,< 10 anos de experiência,+ 200 pessoas,"2,150€","Food card, parking spot, health insurance, paid public transport pass within certain values",2150.0,2000-3999
+351,35-44,homem,Lisboa,Senior UX Designer,> 16 anos de experiência,+ 500 pessoas,"3,900€","Health Insurance, Parental Leave, Mobile plan",3900.0,2000-3999
+352,25-34,mulher,Lisboa,Senior UX Designer ,< 10 anos de experiência,+ 500 pessoas,"2,800€","2000€ anual training, ticket infância 50€ per kid, health insurance, anual bonus (around 3x net salary) ",2800.0,2000-3999
+353,35-44,mulher,Lisboa,Senior UX Designer and Team Leader,<15 anos de experiência,+ 500 pessoas,"2,100€","Health insurance, Parental Leave, Annual Bonus",2100.0,2000-3999
+354,25-34,homem,Lisboa,Senior UX Researcher,< 5 anos de experiência,+ 1000 pessoas,"4,285€","Health Insurance, Gym membership, Stock Options, Employee Discounts, Tuition Reimbursement, Parental Leave, Development Programs",4285.0,4000-6000
+355,35-44,mulher,Lisboa,Senior Writer,<15 anos de experiência,+ 1000 pessoas,"2,420€","Health, yearly bonus (€4000-€6000)",2420.0,2000-3999
+356,25-34,mulher,Lisboa,Service Delivery Manager,< 10 anos de experiência,+ 1000 pessoas,"1,800€","Health insurance, parental leave, children ticket, marriage bonus, ticket restaurant, pension fund, transportation allowance, study support, internal training catalogue",1800.0,menos de 2000
+357,25-34,mulher,Lisboa,Service Delivery Manager,< 10 anos de experiência,+ 500 pessoas,"1,600€","Meal allowance, health insurance, paid SIM only, paid certifications",1600.0,menos de 2000
+358,25-34,mulher,Lisbon,Service Manager & People Development Coordinator,< 10 anos de experiência,+ 1000 pessoas,"1,400€",Health Insurance,1400.0,menos de 2000
+359,25-34,homem,Lisboa,Software Architect,< 5 anos de experiência,25 - 50 pessoas,"3,986€",,3986.0,2000-3999
+360,25-34,mulher,Aveiro,Software Developer,< 5 anos de experiência,+ 1000 pessoas,"2,150€","Health Insurance, Flexible Working Hours (within a pre-defined interval), Home Office some days per week, Employee Discounts, Employee Development Programs, Full Tuition Reimbursement, Bonus",2150.0,2000-3999
+361,35-44,homem,"Ibiza, Spain",Software Developer,> 16 anos de experiência,1 - 10 pessoas,"5,000€",,5000.0,4000-6000
+362,25-34,homem,Lisboa,Software Developer,< 10 anos de experiência,25 - 50 pessoas,"2,300€",Health Insurance,2300.0,2000-3999
+363,25-34,homem,Lisboa,Software Developer,< 10 anos de experiência,+ 500 pessoas,"2,600€","Health insurance, employee discounts, ",2600.0,2000-3999
+364,35-44,mulher,Lisboa,Software Developer,< 10 anos de experiência,+ 200 pessoas,"4,400€","Health insurance for me and my family, parent leaves, extra days of vacations and bonus",4400.0,4000-6000
+365,35-44,mulher,Porto,Software Developer,<15 anos de experiência,+ 1000 pessoas,"1,400€",Productivity bonus,1400.0,menos de 2000
+366,25-34,mulher,Braga,Software Developer,< 2 anos de experiência,+ 1000 pessoas,"1,424€","Health Insurance, Parental Leave, Employee Development Programs, Employee Discounts, Gym Membership",1424.0,menos de 2000
+367,25-34,homem,Lisboa,Software Developer,< 5 anos de experiência,+ 1000 pessoas,"1,800€","Health Insurance, Parental Leave, ",1800.0,menos de 2000
+368,25-34,homem,Lisboa,Software Developer,< 5 anos de experiência,25 - 50 pessoas,"2,100€",Health Insurance,2100.0,2000-3999
+369,18-24,mulher,Lisboa,Software Developer,Sem experiência,+ 1000 pessoas,"1,752€","Health Insurance, Parental Leave, Tuition Reimbursement, Employee Discounts, montly phone plan, breakfast and small lunch in the office, car & motorbike buying with discount, pluralsight account, renting a company car for some days to try, leasing a car with a discount, renting electrical bikes, weekly meditation and languages classes, weekly group counseling ",1752.0,menos de 2000
+370,25-34,homem,Lisboa,Software Developer,< 10 anos de experiência,51 - 100 pessoas,"3,150€","Meal allowence, Health Insurance",3150.0,2000-3999
+371,25-34,mulher,Lisboa,Software Developer,< 10 anos de experiência,+ 200 pessoas,"1,250€",Health Insurance,1250.0,menos de 2000
+372,25-34,mulher,Lisboa,Software Developer,< 10 anos de experiência,100 - 200 pessoas,"1,300€","Health Insurance, Employee Discounts",1300.0,menos de 2000
+373,25-34,mulher,Lisboa,Software Engineer,< 5 anos de experiência,25 - 50 pessoas,"2,328€","health insurance, meal allowance",2328.0,2000-3999
+374,25-34,mulher,Lisboa,Software Engineer,< 10 anos de experiência,+ 1000 pessoas,"1,900€","Health Insurance, Gym Membership, Stock Options, Gadget reimbursement, Employee Discounts, Parking Space, Conference tickets Reimbursement, English Lessons",1900.0,menos de 2000
+375,35-44,homem,Lisboa,Software Engineer,<15 anos de experiência,+ 1000 pessoas,"3,200€",Health Insurance,3200.0,2000-3999
+376,35-44,mulher,Lisboa,Software Engineer,<15 anos de experiência,100 - 200 pessoas,"3,129€","Breakfast and weekly lunch provided by the company, breastfeeding room, weekly massage, discounts on pharmacies, discounts on buying cars.",3129.0,2000-3999
+377,25-34,homem,Lisboa,Software Engineer,< 10 anos de experiência,+ 1000 pessoas,"3,192€","health insurance, stock options, employee discounts",3192.0,2000-3999
+378,25-34,mulher,Lisboa,Software Engineer,< 5 anos de experiência,25 - 50 pessoas,"1,636€",,1636.0,menos de 2000
+379,35-44,mulher,Lisboa,Software Engineer,<15 anos de experiência,+ 500 pessoas,"2,330€","Health insurance, stock options",2330.0,2000-3999
+380,25-34,homem,Porto,Software Engineer,<15 anos de experiência,100 - 200 pessoas,"1,900€",Like Health Insurance,1900.0,menos de 2000
+381,25-34,mulher,Porto,Software Engineer,< 10 anos de experiência,11 - 25 pessoas,"1,900€","Parental Leave, Monthly budget for office expenses.",1900.0,menos de 2000
+382,25-34,mulher,Porto,Software Engineer,< 5 anos de experiência,51 - 100 pessoas,"1,950€","health insurance, office snacks",1950.0,menos de 2000
+383,18-24,mulher,Porto,Software Engineer,< 5 anos de experiência,51 - 100 pessoas,"1,583€","Health Insurance, Flexibel time",1583.0,menos de 2000
+384,25-34,mulher,Porto,Software Engineer,< 2 anos de experiência,25 - 50 pessoas,"1,750€","Health and life insurance, flexible hours, remote possible, coffee and fruit",1750.0,menos de 2000
+385,25-34,homem,Vienna,Software Engineer,< 5 anos de experiência,100 - 200 pessoas,"4,700€",Stock Options,4700.0,4000-6000
+386,25-34,mulher,Aveiro,Software Engineer,< 5 anos de experiência,+ 1000 pessoas,"1,700€","Health insurance, Discounts in verious services (Gyms, Shops, etc.), Yearly bonus (from 0.9 to 1.2 +/- of gross salary), Employee Development Program (may change according to manager assigned)",1700.0,menos de 2000
+387,25-34,homem,Braga,Software Engineer,< 5 anos de experiência,25 - 50 pessoas,"2,600€","Health Insurance, Meal allowance",2600.0,2000-3999
+388,25-34,homem,Braga,Software Engineer,< 2 anos de experiência,+ 200 pessoas,"1,320€",Health Insurance,1320.0,menos de 2000
+389,25-34,mulher,Porto,Software engineer,<15 anos de experiência,100 - 200 pessoas,"2,300€","Health insurance, life insurance, mobile phone with 5GB internet plafond, 25 days vacation plus 2 or 3 /year, 35h/w",2300.0,2000-3999
+390,25-34,homem,Lisboa,Software Engineer ,< 10 anos de experiência,+ 1000 pessoas,"2,150€","Meal allowance, 200€ of flex benefits, Health Insurance, Snacks and Drinks. Stock options",2150.0,2000-3999
+391,18-24,homem,Lisboa,Software Engineer ,< 2 anos de experiência,+ 500 pessoas,"2,333€","Training budget, employee discounts, 3 more days of PTO, bonus up to 3 times the income (depending on performance) ",2333.0,2000-3999
+392,25-34,mulher,Porto,Software QA Consultant,< 5 anos de experiência,+ 500 pessoas,"1,500€","Health Insurance, Emplyee Development Programs, Employee discounts",1500.0,menos de 2000
+393,25-34,mulher,Porto,Software QA tester,< 2 anos de experiência,+ 200 pessoas,"1,350€","Health insurance, parental leave, development programs, employee discounts",1350.0,menos de 2000
+394,25-34,mulher,Coimbra ,Software Quality Engineer ,< 5 anos de experiência,+ 200 pessoas,"1,750€","Health insurance, anual salary review, some bonuses - different every year ",1750.0,menos de 2000
+395,25-34,mulher,Oeiras,Software Tester,< 2 anos de experiência,100 - 200 pessoas,"1,400€",Health Insurance,1400.0,menos de 2000
+396,25-34,mulher,Porto,Software Tester,< 5 anos de experiência,+ 200 pessoas,"2,000€","Health insurance, employee discounts, food and coffe",2000.0,2000-3999
+397,25-34,mulher,Porto,Solution Architect,< 10 anos de experiência,+ 200 pessoas,"2,100€","Health insurance, meal allowance (6.8€/day), working 32h/week, cellphone with monthly plan",2100.0,2000-3999
+398,35-44,homem,Lisboa,SRE,> 16 anos de experiência,25 - 50 pessoas,"4,580€","Health insurance, meal ticket, 1000 EUR/year for training",4580.0,4000-6000
+399,25-34,mulher,Lisboa,Supply Chain Specialist,< 5 anos de experiência,+ 500 pessoas,"2,100€","Health Insurance, Food Allowance, Laptop",2100.0,2000-3999
+400,25-34,mulher,Porto,Support Engineer,Sem experiência,+ 1000 pessoas,"2,400€","Health insurance, annual bonus, meal card, stocks",2400.0,2000-3999
+401,25-34,mulher,Braga,SW Engineer,< 5 anos de experiência,+ 1000 pessoas,"1,600€","Health insurance, time flexibility",1600.0,menos de 2000
+402,25-34,homem,Lisboa,Talent Acquisition Manager,< 10 anos de experiência,100 - 200 pessoas,"2,100€",health insurance,2100.0,2000-3999
+403,25-34,homem,Lisboa,Talent Acquisiton Specialist,< 5 anos de experiência,+ 1000 pessoas,"1,700€","Health insurance, Share Matching, Pension Plan, Employee Development Programs, Employee Discounts, 4 days home office/week",1700.0,menos de 2000
+404,35-44,mulher,Lisboa,Talent Manager ,<15 anos de experiência,+ 1000 pessoas,"1,900€",Health insurance,1900.0,menos de 2000
+405,25-34,mulher,Lisboa,Team Lead,< 10 anos de experiência,100 - 200 pessoas,"3,470€","Bonus, health insurance, employee discounts, mobile+laptop, parking ",3470.0,2000-3999
+406,25-34,mulher,Lisboa,Team Lead,< 10 anos de experiência,+ 1000 pessoas,"1,600€","Health Insurance, Communications plan",1600.0,menos de 2000
+407,25-34,mulher,Lisboa,Team Lead,< 5 anos de experiência,+ 1000 pessoas,"1,500€",Health insurance,1500.0,menos de 2000
+408,35-44,mulher,Lisboa,Team Lead UX&UI,<15 anos de experiência,+ 1000 pessoas,"1,800€",,1800.0,menos de 2000
+409,25-34,mulher,Lisboa,Technical Engineer,< 10 anos de experiência,+ 500 pessoas,"2,800€","Live health insurance, equity in the company, parental leave, 30 days of vacations, annual bonus",2800.0,2000-3999
+410,35-44,homem,Lisboa,Technical Support Coordinator,< 5 anos de experiência,+ 1000 pessoas,"1,400€","Health insurance, retirement plan, anual bonus",1400.0,menos de 2000
+411,25-34,mulher,Porto,Technical Support Engineer,< 5 anos de experiência,+ 200 pessoas,"1,200€","Like Health Insurance, Parental Leave, Employee Development Programs.",1200.0,menos de 2000
+412,25-34,mulher,Aveiro,Technician HR,< 5 anos de experiência,+ 500 pessoas,"1000,00€",Attendance Award; Annual Bonus; Health insurance,1000.0,menos de 2000
+413,25-34,mulher,Lisboa,Technology Consultant,< 5 anos de experiência,+ 1000 pessoas,"1,867€","Health insurance, parental leave, employee discounts, payed phone communications",1867.0,menos de 2000
+414,25-34,mulher,Lisboa,Test Engineer,< 10 anos de experiência,+ 200 pessoas,"3,550€","Health Insurance, Parental Leave, Employee Development Programs, Gym Membership, Stock Options, Free food in the office",3550.0,2000-3999
+415,18-24,mulher,Gothenburg,Trainee,Sem experiência,+ 1000 pessoas,"3,100€","Fitness allowance (~250eur/year), Driving days, Employee discounts, Life insurance, Paid parental leave ",3100.0,2000-3999
+416,25-34,mulher,Lisboa,Trainee,< 2 anos de experiência,+ 1000 pessoas,"1,200€","health insurance, fre memberships to access courses in some websites",1200.0,menos de 2000
+417,25-34,mulher,Lisboa,Treasurer Analyst,< 5 anos de experiência,+ 1000 pessoas,"1,750€","Health Insurance, GYM allowance, Transportation allowance, studies allowance",1750.0,menos de 2000
+418,25-34,mulher,Lisboa,UI designer,< 2 anos de experiência,100 - 200 pessoas,803€,"Health insecurance, employee discounts",803.0,menos de 2000
+419,25-34,mulher,Lisboa,UI Designer,< 10 anos de experiência,11 - 25 pessoas,"2,300€",Parental leave,2300.0,2000-3999
+420,25-34,mulher,Lisboa,UI Designer,< 2 anos de experiência,+ 200 pessoas,"1,060€","Employee Discounts, Flexible hours, Anual salary review",1060.0,menos de 2000
+421,25-34,homem,Porto,UI/UX Designer,<15 anos de experiência,+ 500 pessoas,"1,850€","Health Insurance, Parental Leave, Mobile Plan, Meal allowance (Card), Office coffee and snacks, Performance bonus,  Development Programs, English classes",1850.0,menos de 2000
+422,18-24,mulher,Porto,UI/UX Designer,< 5 anos de experiência,25 - 50 pessoas,"1,173€","Health insurance, bonus from company sales ",1173.0,menos de 2000
+423,25-34,mulher,Lisboa,UI/UX Designer,< 5 anos de experiência,+ 1000 pessoas,"1,400€",Extra money (100€) for health insurance and other benefits,1400.0,menos de 2000
+424,35-44,homem,Lisboa,UX Designer,< 5 anos de experiência,+ 1000 pessoas,"1,790€","Health Insurance, Reimbursements on some expensas (90€), A la card (Food per diem of 6,80€)",1790.0,menos de 2000
+425,25-34,mulher,Lisboa,UX Designer,< 10 anos de experiência,+ 1000 pessoas,"2,425€","Health Insurance, Parental Leave, Employee Discounts",2425.0,2000-3999
+426,25-34,mulher,Lisboa,UX Designer,< 5 anos de experiência,25 - 50 pessoas,1 690,"Health Insurance, Employee Discounts, Employee Development Program",1690.0,menos de 2000
+427,18-24,mulher,Porto,UX Designer,Sem experiência,+ 500 pessoas,600€,,600.0,menos de 2000
+428,25-34,mulher,São Paulo,UX Designer,< 10 anos de experiência,+ 1000 pessoas,"7,200€","Like Health Insurance, Parental Leave, Employee Development Programs, Tuition Reimbursement,  Stock Options and/or Equity",7200.0,mais de 6000
+429,25-34,mulher,Porto,UX Designer,< 10 anos de experiência,25 - 50 pessoas,"1,267€","Health insurance, Parental Leave",1267.0,menos de 2000
+430,25-34,mulher,Porto,UX Designer,<15 anos de experiência,+ 500 pessoas,"2,500€","health insurance, parentalleave, employee development programs, anual bonus, extra vacation days",2500.0,2000-3999
+431,25-34,mulher,Lisboa,Ux Designer,< 2 anos de experiência,51 - 100 pessoas,"1,250€",,1250.0,menos de 2000
+432,18-24,homem,Lisboa,UX Designer/Frontend Developer,< 2 anos de experiência,+ 1000 pessoas,"1,325€","Health insurance, meal subsidy",1325.0,menos de 2000
+433,35-44,mulher,Lisboa,UX Lead,<15 anos de experiência,+ 500 pessoas,"3,500€",Car + health insurance,3500.0,2000-3999
+434,25-34,mulher,Lisboa,UX Researcher,< 10 anos de experiência,1 - 10 pessoas,"1,100€",Health Insurance,1100.0,menos de 2000
+435,25-34,mulher,Aveiro,UX Strategist,< 10 anos de experiência,+ 500 pessoas,"1,505€",,1505.0,menos de 2000
+436,25-34,mulher,Lisboa,UX UI Designer,< 5 anos de experiência,25 - 50 pessoas,"1,000€","Health Insurance, parental leave, employee discounts, employee development programs",1000.0,menos de 2000
+437,25-34,homem,Lisboa,UX/UI Designer,< 10 anos de experiência,+ 500 pessoas,"1,300€","health insurance, parental leave, employee discounts",1300.0,menos de 2000
+438,25-34,mulher,Lisboa,UX/UI Designer,< 2 anos de experiência,+ 1000 pessoas,"1,050€","Health Insurance, Parental leave and Employee Discounts",1050.0,menos de 2000
+439,25-34,mulher,Lisboa,UX/UI Designer,< 5 anos de experiência,51 - 100 pessoas,"1,500€","Health Insurance, Employee Discounts, Parental Leave",1500.0,menos de 2000
+440,35-44,mulher,Lisboa,UX/UI Designer,< 2 anos de experiência,51 - 100 pessoas,"1,000€","health insurance, Employee Discounts",1000.0,menos de 2000
+441,25-34,mulher,Loulé,UX/UI Designer,< 10 anos de experiência,1 - 10 pessoas,"2,316€",,2316.0,2000-3999
+442,18-24,mulher,Viana do Castelo ,UX/UI Designer,< 2 anos de experiência,1 - 10 pessoas,724€,Health Insurance ,724.0,menos de 2000
+443,25-34,mulher,Lisboa,UX/UI Software Developer,< 5 anos de experiência,25 - 50 pessoas,"2,975€",Flexible benefits plans. In my case I chose Health Insurance and Ticket Care.,2975.0,2000-3999
