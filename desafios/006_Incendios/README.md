@@ -9,5 +9,5 @@ Os dados disponibilizados no ficheiro `area_ardida.csv` são do miniprojeto  [Ma
 | month | Mês correspondente à área ardida | Categórico (1-12) |
 | year | Ano correspondente à área ardida | Inteiro (exemplo: 2000) |
 | sum | Total de área ardida, em hectares, em (mês, ano, latitude, longitude) | Float |
-| latitude | Latitude do ponto ardido (do ICNF) | Float |
-| longitude | Longitude do ponto ardido (do ICNF) | Float |
+| latitude | Latitude do ponto ardido - centróide do concelho (do ICNF) | Float |
+| longitude | Longitude do ponto ardido - centróide do concelho (do ICNF) | Float |
