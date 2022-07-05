@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vega-Lite Bar Chart</title>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.2"></script>
+    <style media="screen">
+      /* Add space between Vega-Embed links  */
+      .vega-actions a {
+      margin-right: 5px;
+      }
+      .column1 {
+      float: left;
+      width: 60%;
+      }
+      .column2 {
+      float: right;
+      width: 40%;
+      }
+      /* Clear floats after the columns */
+      .row:after {
+      content: "";
+      display: table;
+      clear: both;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Partos Hospitais Públicos</h1>
+    <!-- Container for the visualization -->
+    <div class="row">
+      <div class="column1" id="vis"></div>
+      <div class="column2" id="vis2"></div>
+    </div>
+    <div>Clique num hospital para visualizar os dados correspondentes.</div>
+    <script>
+      // Assign the specification to a local variable vlSpec.
+      var vlSpec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "resolve": {
+        "scale": {"color": "independent"}
+      },
+      "vconcat": [{
+      "width": 500,
+      "height": 500,
+      "layer": [
+      {
+      "data": {
+        "url": "https://raw.githubusercontent.com/deldersveld/topojson/master/countries/portugal/portugal-districts.json",
+        "format": {
+          "type": "topojson",
+          "feature": "PRT_adm1"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "white"
+      }
+      },
+      {
+      "data": {
+        "url": "https://raw.githubusercontent.com/dssgPT/Plotting-Good-DSSG/main/desafios/005_Partos_Hospitais_Publicos/partos_hospitais_publicos.csv"
+      },
+      
+      "transform": [
+      {"calculate": "split(datum.localização_geográfica,',')[1]", "as": "longitude"},
+      {"calculate": "split(datum.localização_geográfica,',')[0]", "as": "latitude"},
+        {
+      "aggregate": [],
+      "groupby": ["longitude", "latitude", "instituição", "região"]
+      }
+      ],
+      "params": [{"name": "brush", "select": {"type": "point", "encodings": ["key"], "nearest": true}},
+      {
+      "name": "highlight",
+      "select": {"type": "point", "on": "mouseover"}
+      }],
+            "mark": {
+        "type": "circle",
+        "cursor": "pointer"
+      },
+            "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "tooltip": {"field": "instituição", "type": "nominal"},
+        "key": {"field": "instituição"},
+        "color": {"field": "região", "title": "Region", "legend":{"title":null}},
+        "size": {
+          "condition": {
+        "param": "highlight",
+        "value": 200
+      }, "value": 30}
+      }
+      
+      }
+      ]
+      },   
+      {"data": {"url": "https://raw.githubusercontent.com/dssgPT/Plotting-Good-DSSG/main/desafios/005_Partos_Hospitais_Publicos/partos_hospitais_publicos.csv"},
+      "title" : {"text": {"expr":"brush.instituição ? brush.instituição : 'Todas as Instituições'"}},
+      "transform": [
+      {"calculate": "split(datum.localização_geográfica,',')[1]", "as": "longitude"},
+      {"calculate": "split(datum.localização_geográfica,',')[0]", "as": "latitude"},
+      {"filter": {"param": "brush"}},
+      {"fold": ["partos_mês", "cesarianas_mês"], "as": ["column", "value"]}
+      ],
+      "mark": {"type": "bar"},
+      "encoding": {
+      "x": {
+      "timeUnit": "yearmonth",
+      "field": "período",
+      "type": "ordinal",
+      "title": null
+      },
+      "y": {
+      "aggregate": "sum",
+      "type": "quantitative",
+      "field": "value",
+      "title": null
+      },
+      "color": {"scale": {"range": ["#e6959c", "#911a24"]}, "field": "column", "type": "nominal", "legend":{"title":null, "labelExpr": "{'partos_mês': 'Partos', 'cesarianas_mês': 'Cesarianas'}[datum.label]"}
+      }
+      }
+      }]};
+      var vlSpec2 = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "resolve": {
+        "scale": {"color": "independent"}
+      },
+      "vconcat": [
+      {
+      "width": 300, "height": 200,
+      "data": {"url": "https://raw.githubusercontent.com/dssgPT/Plotting-Good-DSSG/main/desafios/005_Partos_Hospitais_Publicos/partos_hospitais_publicos.csv"},
+      "mark": "area",
+      "encoding": {
+      "x": {
+      "timeUnit": "yearmonth", "field": "período",
+      "axis": {"format": "%Y"},
+      "title": null
+      },
+      "y": {
+      "aggregate": "sum", 
+      "field": "partos_mês",
+      "title": "Nascimentos"
+      },
+      "color": {
+      "field": "região",
+      "title": "Region",
+      "legend": null
+      }
+      }
+      },
+      {
+      "params": [{
+      "name": "region",
+      "value": [{"região": "Região de Saúde LVT"}],
+      "select": {"type": "point", "fields": ["região"]},
+      "bind": {
+        "região": {"name": " ", "input": "select", "options": [
+        "Região de Saúde do Centro", "Região de Saúde LVT", "Região de Saúde Norte",  "Região de Saúde do Algarve", "Região de Saúde do Alentejo"
+      ]}
+      }
+      }],
+      "data": {"url": "https://raw.githubusercontent.com/dssgPT/Plotting-Good-DSSG/main/desafios/005_Partos_Hospitais_Publicos/partos_hospitais_publicos.csv"},
+      "transform": [
+      {"filter": {"param": "region"}},
+      {"filter": "datum.mês==12"},
+      {"fold": ["total_partos", "total_cesarianas"], "as": ["column", "value"]}
+      ],
+      "mark": {"type": "bar"},
+      "encoding": {
+      "x": {
+      "timeUnit": "year",
+      "field": "ano",
+      "type": "ordinal",
+      "title": null
+      },
+      "y": {
+      "aggregate": "sum",
+      "type": "quantitative",
+      "field": "value",
+      "title": null
+      },
+      "color": {"scale": {"range": ["#e6959c", "#911a24"]}, "field": "column", "type": "nominal", "legend":{"title":null, "labelExpr": "{'total_partos': 'Partos', 'total_cesarianas': 'Cesarianas'}[datum.label]"}}
+      }
+      }
+      ]};
+      // Embed the visualization in the container with id `vis`
+      vegaEmbed('#vis', vlSpec);
+      vegaEmbed('#vis2', vlSpec2);
+    </script>
+  </body>
+</html>
