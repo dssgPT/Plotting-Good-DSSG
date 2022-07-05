@@ -2,8 +2,6 @@ Os dados disponibilizados no ficheiro `area_ardida.csv` são do miniprojeto  [Ma
 
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
-| Dicofre | Indicador oficial das freguesias em Portugal - correspondente à posição (latitude, longitude) | Inteiro |
-| Freguesia | Freguesia correspondente à posição (latitude, longitude) | Float |
 | Distrito | Distrito correspondente à posição (latitude, longitude) | Texto (exemplo: SANTARÉM) |
 | Concelho | Concelho correspondente à posição (latitude, longitude) |  Texto (exemplo: Abrantes) |
 | month | Mês correspondente à área ardida | Categórico (1-12) |
